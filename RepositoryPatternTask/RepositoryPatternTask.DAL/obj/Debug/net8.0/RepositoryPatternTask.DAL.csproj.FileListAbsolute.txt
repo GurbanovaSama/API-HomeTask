@@ -1,0 +1,17 @@
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.DAL\bin\Debug\net8.0\RepositoryPatternTask.DAL.deps.json
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.DAL\bin\Debug\net8.0\RepositoryPatternTask.DAL.runtimeconfig.json
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.DAL\bin\Debug\net8.0\RepositoryPatternTask.DAL.dll
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.DAL\bin\Debug\net8.0\RepositoryPatternTask.DAL.pdb
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.DAL\bin\Debug\net8.0\RepositoryPatternTask.Core.dll
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.DAL\bin\Debug\net8.0\RepositoryPatternTask.Core.pdb
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.DAL\obj\Debug\net8.0\RepositoryPatternTask.DAL.csproj.AssemblyReference.cache
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.DAL\obj\Debug\net8.0\RepositoryPatternTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.DAL\obj\Debug\net8.0\RepositoryPatternTask.DAL.AssemblyInfoInputs.cache
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.DAL\obj\Debug\net8.0\RepositoryPatternTask.DAL.AssemblyInfo.cs
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.DAL\obj\Debug\net8.0\RepositoryPatternTask.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.DAL\obj\Debug\net8.0\Reposito.AF07436B.Up2Date
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.DAL\obj\Debug\net8.0\RepositoryPatternTask.DAL.dll
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.DAL\obj\Debug\net8.0\refint\RepositoryPatternTask.DAL.dll
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.DAL\obj\Debug\net8.0\RepositoryPatternTask.DAL.pdb
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.DAL\obj\Debug\net8.0\RepositoryPatternTask.DAL.genruntimeconfig.cache
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.DAL\obj\Debug\net8.0\ref\RepositoryPatternTask.DAL.dll

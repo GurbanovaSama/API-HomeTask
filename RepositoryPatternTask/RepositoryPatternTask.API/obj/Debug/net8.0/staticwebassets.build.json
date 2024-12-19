@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "yOIpvTwMv5uaEQJMzTPyyUpk+MdpYah1aY5nNv9yomI=",
+  "Source": "RepositoryPatternTask.API",
+  "BasePath": "_content/RepositoryPatternTask.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

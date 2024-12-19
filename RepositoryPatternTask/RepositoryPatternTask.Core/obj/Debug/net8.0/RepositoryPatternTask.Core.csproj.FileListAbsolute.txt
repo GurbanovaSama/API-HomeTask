@@ -1,0 +1,11 @@
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.Core\bin\Debug\net8.0\RepositoryPatternTask.Core.deps.json
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.Core\bin\Debug\net8.0\RepositoryPatternTask.Core.dll
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.Core\bin\Debug\net8.0\RepositoryPatternTask.Core.pdb
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.Core\obj\Debug\net8.0\RepositoryPatternTask.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.Core\obj\Debug\net8.0\RepositoryPatternTask.Core.AssemblyInfoInputs.cache
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.Core\obj\Debug\net8.0\RepositoryPatternTask.Core.AssemblyInfo.cs
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.Core\obj\Debug\net8.0\RepositoryPatternTask.Core.csproj.CoreCompileInputs.cache
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.Core\obj\Debug\net8.0\RepositoryPatternTask.Core.dll
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.Core\obj\Debug\net8.0\refint\RepositoryPatternTask.Core.dll
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.Core\obj\Debug\net8.0\RepositoryPatternTask.Core.pdb
+C:\Users\Sema Gurbanova\source\repos\RepositoryPatternTask\RepositoryPatternTask.Core\obj\Debug\net8.0\ref\RepositoryPatternTask.Core.dll
