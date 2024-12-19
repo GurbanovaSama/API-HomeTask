@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD934B99-B153-4FF1-8C36-8AB50A1BD0C0}|WorkShopManagement.DAL\\WorkShopManagement.DAL.csproj|c:\\users\\ii novbe\\desktop\\api-hometask\\workshopmanagement\\workshopmanagement.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD934B99-B153-4FF1-8C36-8AB50A1BD0C0}|WorkShopManagement.DAL\\WorkShopManagement.DAL.csproj|solutionrelative:workshopmanagement.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD934B99-B153-4FF1-8C36-8AB50A1BD0C0}|WorkShopManagement.DAL\\WorkShopManagement.DAL.csproj|c:\\users\\ii novbe\\desktop\\api-hometask\\workshopmanagement\\workshopmanagement.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD934B99-B153-4FF1-8C36-8AB50A1BD0C0}|WorkShopManagement.DAL\\WorkShopManagement.DAL.csproj|solutionrelative:workshopmanagement.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86CE777-8CA3-4657-AF6A-A866365C6FB8}|WorkShopManagement.Core\\WorkShopManagement.Core.csproj|c:\\users\\ii novbe\\desktop\\api-hometask\\workshopmanagement\\workshopmanagement.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86CE777-8CA3-4657-AF6A-A866365C6FB8}|WorkShopManagement.Core\\WorkShopManagement.Core.csproj|solutionrelative:workshopmanagement.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86CE777-8CA3-4657-AF6A-A866365C6FB8}|WorkShopManagement.Core\\WorkShopManagement.Core.csproj|c:\\users\\ii novbe\\desktop\\api-hometask\\workshopmanagement\\workshopmanagement.core\\entities\\base\\baseauiditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86CE777-8CA3-4657-AF6A-A866365C6FB8}|WorkShopManagement.Core\\WorkShopManagement.Core.csproj|solutionrelative:workshopmanagement.core\\entities\\base\\baseauiditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86CE777-8CA3-4657-AF6A-A866365C6FB8}|WorkShopManagement.Core\\WorkShopManagement.Core.csproj|c:\\users\\ii novbe\\desktop\\api-hometask\\workshopmanagement\\workshopmanagement.core\\entities\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86CE777-8CA3-4657-AF6A-A866365C6FB8}|WorkShopManagement.Core\\WorkShopManagement.Core.csproj|solutionrelative:workshopmanagement.core\\entities\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86CE777-8CA3-4657-AF6A-A866365C6FB8}|WorkShopManagement.Core\\WorkShopManagement.Core.csproj|c:\\users\\ii novbe\\desktop\\api-hometask\\workshopmanagement\\workshopmanagement.core\\entities\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86CE777-8CA3-4657-AF6A-A866365C6FB8}|WorkShopManagement.Core\\WorkShopManagement.Core.csproj|solutionrelative:workshopmanagement.core\\entities\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E76C94-332D-43DF-9B83-56A857144753}|WorkShopManagement.API\\WorkShopManagement.API.csproj|c:\\users\\ii novbe\\desktop\\api-hometask\\workshopmanagement\\workshopmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E76C94-332D-43DF-9B83-56A857144753}|WorkShopManagement.API\\WorkShopManagement.API.csproj|solutionrelative:workshopmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "WorkShopManagement.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "WorkShopManagement.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwC4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T14:22:30.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "WorkShopManagement.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeToolTip": "WorkShopManagement.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T14:21:54.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "WorkShopManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.API\\Program.cs",
+              "RelativeToolTip": "WorkShopManagement.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T14:07:14.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.Core\\Entities\\Participant.cs",
+              "RelativeDocumentMoniker": "WorkShopManagement.Core\\Entities\\Participant.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.Core\\Entities\\Participant.cs",
+              "RelativeToolTip": "WorkShopManagement.Core\\Entities\\Participant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:46:20.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkShop.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.Core\\Entities\\WorkShop.cs",
+              "RelativeDocumentMoniker": "WorkShopManagement.Core\\Entities\\WorkShop.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.Core\\Entities\\WorkShop.cs",
+              "RelativeToolTip": "WorkShopManagement.Core\\Entities\\WorkShop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:45:53.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseAuiditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.Core\\Entities\\Base\\BaseAuiditableEntity.cs",
+              "RelativeDocumentMoniker": "WorkShopManagement.Core\\Entities\\Base\\BaseAuiditableEntity.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.Core\\Entities\\Base\\BaseAuiditableEntity.cs",
+              "RelativeToolTip": "WorkShopManagement.Core\\Entities\\Base\\BaseAuiditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:44:20.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.Core\\Entities\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "WorkShopManagement.Core\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.Core\\Entities\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "WorkShopManagement.Core\\Entities\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:42:59.967Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.DAL\bin\Debug\net8.0\WorkShopManagement.DAL.deps.json
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.DAL\bin\Debug\net8.0\WorkShopManagement.DAL.runtimeconfig.json
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.DAL\bin\Debug\net8.0\WorkShopManagement.DAL.dll
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.DAL\bin\Debug\net8.0\WorkShopManagement.DAL.pdb
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.DAL\bin\Debug\net8.0\WorkShopManagement.Core.dll
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.DAL\bin\Debug\net8.0\WorkShopManagement.Core.pdb
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.DAL\obj\Debug\net8.0\WorkShopManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.DAL\obj\Debug\net8.0\WorkShopManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.DAL\obj\Debug\net8.0\WorkShopManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.DAL\obj\Debug\net8.0\WorkShopManagement.DAL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.DAL\obj\Debug\net8.0\WorkShopManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.DAL\obj\Debug\net8.0\WorkShop.BA37AB06.Up2Date
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.DAL\obj\Debug\net8.0\WorkShopManagement.DAL.dll
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.DAL\obj\Debug\net8.0\refint\WorkShopManagement.DAL.dll
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.DAL\obj\Debug\net8.0\WorkShopManagement.DAL.pdb
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.DAL\obj\Debug\net8.0\WorkShopManagement.DAL.genruntimeconfig.cache
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.DAL\obj\Debug\net8.0\ref\WorkShopManagement.DAL.dll

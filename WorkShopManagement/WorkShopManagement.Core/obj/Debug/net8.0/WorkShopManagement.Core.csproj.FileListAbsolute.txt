@@ -1,0 +1,11 @@
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.Core\bin\Debug\net8.0\WorkShopManagement.Core.deps.json
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.Core\bin\Debug\net8.0\WorkShopManagement.Core.dll
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.Core\bin\Debug\net8.0\WorkShopManagement.Core.pdb
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.Core\obj\Debug\net8.0\WorkShopManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.Core\obj\Debug\net8.0\WorkShopManagement.Core.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.Core\obj\Debug\net8.0\WorkShopManagement.Core.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.Core\obj\Debug\net8.0\WorkShopManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.Core\obj\Debug\net8.0\WorkShopManagement.Core.dll
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.Core\obj\Debug\net8.0\refint\WorkShopManagement.Core.dll
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.Core\obj\Debug\net8.0\WorkShopManagement.Core.pdb
+C:\Users\II Novbe\source\repos\WorkShopManagement\WorkShopManagement.Core\obj\Debug\net8.0\ref\WorkShopManagement.Core.dll
