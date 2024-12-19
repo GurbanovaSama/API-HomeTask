@@ -12,9 +12,9 @@ namespace RepositoryPatternTask.BL.Services.Implementations
 {
     public class DepartmentService : IDepartmentService
     {
-        private readonly DepartmentRepository _departmentRepo;
+        private readonly IDepartmentRepository _departmentRepo;
 
-        public DepartmentService(DepartmentRepository departmentRepo)
+        public DepartmentService(IDepartmentRepository departmentRepo)
         {
             _departmentRepo = departmentRepo;
         }

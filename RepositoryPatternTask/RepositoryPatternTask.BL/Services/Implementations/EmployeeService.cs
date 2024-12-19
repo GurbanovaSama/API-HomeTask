@@ -1,6 +1,7 @@
 ﻿using RepositoryPatternTask.BL.DTOs.EmployeeDtos;
 using RepositoryPatternTask.BL.Services.Abstractions;
 using RepositoryPatternTask.Core.Entities;
+using RepositoryPatternTask.DAL.Repositories.Abstractions;
 using RepositoryPatternTask.DAL.Repositories.Implementations;
 using System;
 using System.Collections.Generic;
@@ -12,9 +13,9 @@ namespace RepositoryPatternTask.BL.Services.Implementations
 {
     public class EmployeeService : IEmployeeService
     {
-        private readonly EmployeeRepository _employeeRepo;
+        private readonly IEmployeeRepository _employeeRepo;
 
-        public EmployeeService(EmployeeRepository employeeRepo)
+        public EmployeeService(IEmployeeRepository employeeRepo)
         {
             _employeeRepo = employeeRepo;
         }

@@ -1,5 +1,25 @@
 [
   {
+    "ContainingType": "RepositoryPatternTask.API.Controllers.DepartmentsController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/Departments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.ICollection\u00601[[RepositoryPatternTask.Core.Entities.Department, RepositoryPatternTask.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "RepositoryPatternTask.API.Controllers.EmployeesController",
     "Method": "GetAll",
     "RelativePath": "api/Employees",
@@ -9,7 +29,33 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[RepositoryPatternTask.Core.Entities.Employee, RepositoryPatternTask.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.ICollection\u00601[[RepositoryPatternTask.Core.Entities.Employee, RepositoryPatternTask.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RepositoryPatternTask.API.Controllers.EmployeesController",
+    "Method": "Create",
+    "RelativePath": "api/Employees",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createDto",
+        "Type": "RepositoryPatternTask.BL.DTOs.EmployeeDtos.EmployeeCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RepositoryPatternTask.Core.Entities.Employee",
         "MediaTypes": [
           "text/plain",
           "application/json",
