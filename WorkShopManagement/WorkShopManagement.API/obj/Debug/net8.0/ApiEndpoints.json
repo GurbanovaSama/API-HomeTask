@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "ContainingType": "WorkShopManagement.API.Controllers.ParticipantsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Participants",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.ICollection\u00601[[WorkShopManagement.Core.Entities.Participant, WorkShopManagement.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WorkShopManagement.API.Controllers.ParticipantsController",
+    "Method": "Create",
+    "RelativePath": "api/Participants",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createDto",
+        "Type": "WorkShopManagement.BL.DTOs.ParticipantDtos.ParticipantCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WorkShopManagement.Core.Entities.Participant",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WorkShopManagement.API.Controllers.WorkShopsController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/WorkShops",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.ICollection\u00601[[WorkShopManagement.Core.Entities.WorkShop, WorkShopManagement.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

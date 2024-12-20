@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD934B99-B153-4FF1-8C36-8AB50A1BD0C0}|WorkShopManagement.DAL\\WorkShopManagement.DAL.csproj|c:\\users\\ii novbe\\desktop\\api-hometask\\workshopmanagement\\workshopmanagement.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD934B99-B153-4FF1-8C36-8AB50A1BD0C0}|WorkShopManagement.DAL\\WorkShopManagement.DAL.csproj|solutionrelative:workshopmanagement.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD934B99-B153-4FF1-8C36-8AB50A1BD0C0}|WorkShopManagement.DAL\\WorkShopManagement.DAL.csproj|c:\\users\\ii novbe\\desktop\\api-hometask\\workshopmanagement\\workshopmanagement.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD934B99-B153-4FF1-8C36-8AB50A1BD0C0}|WorkShopManagement.DAL\\WorkShopManagement.DAL.csproj|solutionrelative:workshopmanagement.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86CE777-8CA3-4657-AF6A-A866365C6FB8}|WorkShopManagement.Core\\WorkShopManagement.Core.csproj|c:\\users\\ii novbe\\desktop\\api-hometask\\workshopmanagement\\workshopmanagement.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86CE777-8CA3-4657-AF6A-A866365C6FB8}|WorkShopManagement.Core\\WorkShopManagement.Core.csproj|solutionrelative:workshopmanagement.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C86CE777-8CA3-4657-AF6A-A866365C6FB8}|WorkShopManagement.Core\\WorkShopManagement.Core.csproj|c:\\users\\ii novbe\\desktop\\api-hometask\\workshopmanagement\\workshopmanagement.core\\entities\\base\\baseauiditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86CE777-8CA3-4657-AF6A-A866365C6FB8}|WorkShopManagement.Core\\WorkShopManagement.Core.csproj|solutionrelative:workshopmanagement.core\\entities\\base\\baseauiditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{047D497C-1DD8-435C-ACBC-87F72E4A3C8E}|WorkShopManagement.BL\\WorkShopManagement.BL.csproj|c:\\users\\ii novbe\\desktop\\api-hometask\\workshopmanagement\\workshopmanagement.bl\\services\\implementations\\participantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047D497C-1DD8-435C-ACBC-87F72E4A3C8E}|WorkShopManagement.BL\\WorkShopManagement.BL.csproj|solutionrelative:workshopmanagement.bl\\services\\implementations\\participantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C86CE777-8CA3-4657-AF6A-A866365C6FB8}|WorkShopManagement.Core\\WorkShopManagement.Core.csproj|c:\\users\\ii novbe\\desktop\\api-hometask\\workshopmanagement\\workshopmanagement.core\\entities\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +15,44 @@
       "RelativeMoniker": "D:0:0:{C86CE777-8CA3-4657-AF6A-A866365C6FB8}|WorkShopManagement.Core\\WorkShopManagement.Core.csproj|solutionrelative:workshopmanagement.core\\entities\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C86CE777-8CA3-4657-AF6A-A866365C6FB8}|WorkShopManagement.Core\\WorkShopManagement.Core.csproj|c:\\users\\ii novbe\\desktop\\api-hometask\\workshopmanagement\\workshopmanagement.core\\entities\\base\\baseauiditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86CE777-8CA3-4657-AF6A-A866365C6FB8}|WorkShopManagement.Core\\WorkShopManagement.Core.csproj|solutionrelative:workshopmanagement.core\\entities\\base\\baseauiditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047D497C-1DD8-435C-ACBC-87F72E4A3C8E}|WorkShopManagement.BL\\WorkShopManagement.BL.csproj|c:\\users\\ii novbe\\desktop\\api-hometask\\workshopmanagement\\workshopmanagement.bl\\services\\abstractions\\iparticipantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047D497C-1DD8-435C-ACBC-87F72E4A3C8E}|WorkShopManagement.BL\\WorkShopManagement.BL.csproj|solutionrelative:workshopmanagement.bl\\services\\abstractions\\iparticipantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD934B99-B153-4FF1-8C36-8AB50A1BD0C0}|WorkShopManagement.DAL\\WorkShopManagement.DAL.csproj|c:\\users\\ii novbe\\desktop\\api-hometask\\workshopmanagement\\workshopmanagement.dal\\dal\\configurations\\participantconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD934B99-B153-4FF1-8C36-8AB50A1BD0C0}|WorkShopManagement.DAL\\WorkShopManagement.DAL.csproj|solutionrelative:workshopmanagement.dal\\dal\\configurations\\participantconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD934B99-B153-4FF1-8C36-8AB50A1BD0C0}|WorkShopManagement.DAL\\WorkShopManagement.DAL.csproj|c:\\users\\ii novbe\\desktop\\api-hometask\\workshopmanagement\\workshopmanagement.dal\\dal\\configurations\\workshopconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD934B99-B153-4FF1-8C36-8AB50A1BD0C0}|WorkShopManagement.DAL\\WorkShopManagement.DAL.csproj|solutionrelative:workshopmanagement.dal\\dal\\configurations\\workshopconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E76C94-332D-43DF-9B83-56A857144753}|WorkShopManagement.API\\WorkShopManagement.API.csproj|c:\\users\\ii novbe\\desktop\\api-hometask\\workshopmanagement\\workshopmanagement.api\\controllers\\participantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E76C94-332D-43DF-9B83-56A857144753}|WorkShopManagement.API\\WorkShopManagement.API.csproj|solutionrelative:workshopmanagement.api\\controllers\\participantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047D497C-1DD8-435C-ACBC-87F72E4A3C8E}|WorkShopManagement.BL\\WorkShopManagement.BL.csproj|c:\\users\\ii novbe\\desktop\\api-hometask\\workshopmanagement\\workshopmanagement.bl\\services\\implementations\\workshopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047D497C-1DD8-435C-ACBC-87F72E4A3C8E}|WorkShopManagement.BL\\WorkShopManagement.BL.csproj|solutionrelative:workshopmanagement.bl\\services\\implementations\\workshopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047D497C-1DD8-435C-ACBC-87F72E4A3C8E}|WorkShopManagement.BL\\WorkShopManagement.BL.csproj|c:\\users\\ii novbe\\desktop\\api-hometask\\workshopmanagement\\workshopmanagement.bl\\services\\abstractions\\iworkshopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047D497C-1DD8-435C-ACBC-87F72E4A3C8E}|WorkShopManagement.BL\\WorkShopManagement.BL.csproj|solutionrelative:workshopmanagement.bl\\services\\abstractions\\iworkshopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{28E76C94-332D-43DF-9B83-56A857144753}|WorkShopManagement.API\\WorkShopManagement.API.csproj|c:\\users\\ii novbe\\desktop\\api-hometask\\workshopmanagement\\workshopmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28E76C94-332D-43DF-9B83-56A857144753}|WorkShopManagement.API\\WorkShopManagement.API.csproj|solutionrelative:workshopmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD934B99-B153-4FF1-8C36-8AB50A1BD0C0}|WorkShopManagement.DAL\\WorkShopManagement.DAL.csproj|c:\\users\\ii novbe\\desktop\\api-hometask\\workshopmanagement\\workshopmanagement.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD934B99-B153-4FF1-8C36-8AB50A1BD0C0}|WorkShopManagement.DAL\\WorkShopManagement.DAL.csproj|solutionrelative:workshopmanagement.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047D497C-1DD8-435C-ACBC-87F72E4A3C8E}|WorkShopManagement.BL\\WorkShopManagement.BL.csproj|c:\\users\\ii novbe\\desktop\\api-hometask\\workshopmanagement\\workshopmanagement.bl\\dtos\\participantdtos\\participantcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047D497C-1DD8-435C-ACBC-87F72E4A3C8E}|WorkShopManagement.BL\\WorkShopManagement.BL.csproj|solutionrelative:workshopmanagement.bl\\dtos\\participantdtos\\participantcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,68 +62,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.DAL\\Repositories\\Implementations\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "WorkShopManagement.DAL\\Repositories\\Implementations\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.DAL\\Repositories\\Implementations\\GenericRepository.cs",
-              "RelativeToolTip": "WorkShopManagement.DAL\\Repositories\\Implementations\\GenericRepository.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwC4AAAAuAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "WorkShopConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.DAL\\DAL\\Configurations\\WorkShopConfiguration.cs",
+              "RelativeDocumentMoniker": "WorkShopManagement.DAL\\DAL\\Configurations\\WorkShopConfiguration.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.DAL\\DAL\\Configurations\\WorkShopConfiguration.cs",
+              "RelativeToolTip": "WorkShopManagement.DAL\\DAL\\Configurations\\WorkShopConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T14:22:30.68Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "WorkShopManagement.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
-              "RelativeToolTip": "WorkShopManagement.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T14:21:54.747Z",
+              "WhenOpened": "2024-12-20T14:50:58.528Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.API\\Program.cs",
-              "RelativeDocumentMoniker": "WorkShopManagement.API\\Program.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.API\\Program.cs",
-              "RelativeToolTip": "WorkShopManagement.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ParticipantConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.DAL\\DAL\\Configurations\\ParticipantConfiguration.cs",
+              "RelativeDocumentMoniker": "WorkShopManagement.DAL\\DAL\\Configurations\\ParticipantConfiguration.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.DAL\\DAL\\Configurations\\ParticipantConfiguration.cs",
+              "RelativeToolTip": "WorkShopManagement.DAL\\DAL\\Configurations\\ParticipantConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T14:07:14.472Z"
+              "WhenOpened": "2024-12-20T14:50:21.632Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Participant.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.Core\\Entities\\Participant.cs",
               "RelativeDocumentMoniker": "WorkShopManagement.Core\\Entities\\Participant.cs",
               "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.Core\\Entities\\Participant.cs",
               "RelativeToolTip": "WorkShopManagement.Core\\Entities\\Participant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T13:46:20.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WorkShop.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.Core\\Entities\\WorkShop.cs",
-              "RelativeDocumentMoniker": "WorkShopManagement.Core\\Entities\\WorkShop.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.Core\\Entities\\WorkShop.cs",
-              "RelativeToolTip": "WorkShopManagement.Core\\Entities\\WorkShop.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T13:45:53.536Z"
+              "WhenOpened": "2024-12-20T13:46:26.16Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -109,21 +114,127 @@
               "RelativeDocumentMoniker": "WorkShopManagement.Core\\Entities\\Base\\BaseAuiditableEntity.cs",
               "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.Core\\Entities\\Base\\BaseAuiditableEntity.cs",
               "RelativeToolTip": "WorkShopManagement.Core\\Entities\\Base\\BaseAuiditableEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T13:44:20.279Z"
+              "WhenOpened": "2024-12-20T15:05:33.659Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.Core\\Entities\\Base\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "WorkShopManagement.Core\\Entities\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.Core\\Entities\\Base\\BaseEntity.cs",
-              "RelativeToolTip": "WorkShopManagement.Core\\Entities\\Base\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "WorkShop.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.Core\\Entities\\WorkShop.cs",
+              "RelativeDocumentMoniker": "WorkShopManagement.Core\\Entities\\WorkShop.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.Core\\Entities\\WorkShop.cs",
+              "RelativeToolTip": "WorkShopManagement.Core\\Entities\\WorkShop.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T13:42:59.967Z"
+              "WhenOpened": "2024-12-20T14:59:14.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParticipantService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.BL\\Services\\Implementations\\ParticipantService.cs",
+              "RelativeDocumentMoniker": "WorkShopManagement.BL\\Services\\Implementations\\ParticipantService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.BL\\Services\\Implementations\\ParticipantService.cs",
+              "RelativeToolTip": "WorkShopManagement.BL\\Services\\Implementations\\ParticipantService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:33:52.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IParticipantService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.BL\\Services\\Abstractions\\IParticipantService.cs",
+              "RelativeDocumentMoniker": "WorkShopManagement.BL\\Services\\Abstractions\\IParticipantService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.BL\\Services\\Abstractions\\IParticipantService.cs",
+              "RelativeToolTip": "WorkShopManagement.BL\\Services\\Abstractions\\IParticipantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:57:26.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "WorkShopManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.API\\Program.cs",
+              "RelativeToolTip": "WorkShopManagement.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:30:06.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.DAL\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WorkShopManagement.DAL\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.DAL\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "WorkShopManagement.DAL\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:29:28.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParticipantsController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.API\\Controllers\\ParticipantsController.cs",
+              "RelativeDocumentMoniker": "WorkShopManagement.API\\Controllers\\ParticipantsController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.API\\Controllers\\ParticipantsController.cs",
+              "RelativeToolTip": "WorkShopManagement.API\\Controllers\\ParticipantsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:11:15.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkShopService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.BL\\Services\\Implementations\\WorkShopService.cs",
+              "RelativeDocumentMoniker": "WorkShopManagement.BL\\Services\\Implementations\\WorkShopService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.BL\\Services\\Implementations\\WorkShopService.cs",
+              "RelativeToolTip": "WorkShopManagement.BL\\Services\\Implementations\\WorkShopService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:01:06.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ParticipantCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.BL\\DTOs\\ParticipantDtos\\ParticipantCreateDto.cs",
+              "RelativeDocumentMoniker": "WorkShopManagement.BL\\DTOs\\ParticipantDtos\\ParticipantCreateDto.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.BL\\DTOs\\ParticipantDtos\\ParticipantCreateDto.cs",
+              "RelativeToolTip": "WorkShopManagement.BL\\DTOs\\ParticipantDtos\\ParticipantCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:38:58.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IWorkShopService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.BL\\Services\\Abstractions\\IWorkShopService.cs",
+              "RelativeDocumentMoniker": "WorkShopManagement.BL\\Services\\Abstractions\\IWorkShopService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\WorkShopManagement\\WorkShopManagement.BL\\Services\\Abstractions\\IWorkShopService.cs",
+              "RelativeToolTip": "WorkShopManagement.BL\\Services\\Abstractions\\IWorkShopService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:34:12.793Z",
+              "EditorCaption": ""
             }
           ]
         }

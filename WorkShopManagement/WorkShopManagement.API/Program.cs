@@ -1,19 +1,30 @@
 using Microsoft.EntityFrameworkCore;
+using WorkShopManagement.BL.Services.Abstractions;
+using WorkShopManagement.BL.Services.Implementations;
 using WorkShopManagement.DAL.DAL;
+using WorkShopManagement.DAL.Repositories.Abstractions;
+using WorkShopManagement.DAL.Repositories.Implementations;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+builder.Services.AddScoped<IParticipantRepository, ParticipantRepository>();
+builder.Services.AddScoped<IWorkShopRepository, WorkShopRepository>();
+
+
+builder.Services.AddScoped<IParticipantService, ParticipantService>();
+
+builder.Services.AddScoped<IWorkShopService, WorkShopService>();
+
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
 builder.Services.AddDbContext<AppDbContext>(opt =>
 {
     opt.UseSqlServer(builder.Configuration.GetConnectionString("MsSql"));
 });
-
 
 
 var app = builder.Build();
