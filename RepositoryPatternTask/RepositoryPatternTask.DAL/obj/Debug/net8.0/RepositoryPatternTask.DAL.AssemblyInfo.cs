@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RepositoryPatternTask.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c79ee0e70c22f5776ce4e208baf30624cb9b0883")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93efb60c2a2d47435bbf6a3be8e8742e50118f4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("RepositoryPatternTask.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RepositoryPatternTask.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,24 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4DE6829-8B17-4F9B-A6E8-0AACE440C538}|RepositoryPatternTask.API\\RepositoryPatternTask.API.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\repositorypatterntask\\repositorypatterntask.api\\controllers\\appusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4DE6829-8B17-4F9B-A6E8-0AACE440C538}|RepositoryPatternTask.API\\RepositoryPatternTask.API.csproj|solutionrelative:repositorypatterntask.api\\controllers\\appusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4DE6829-8B17-4F9B-A6E8-0AACE440C538}|RepositoryPatternTask.API\\RepositoryPatternTask.API.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\repositorypatterntask\\repositorypatterntask.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DE6829-8B17-4F9B-A6E8-0AACE440C538}|RepositoryPatternTask.API\\RepositoryPatternTask.API.csproj|solutionrelative:repositorypatterntask.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{162334CF-7ED7-4684-BE0D-19CF4471498B}|RepositoryPatternTask.BL\\RepositoryPatternTask.BL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\repositorypatterntask\\repositorypatterntask.bl\\dtos\\appuserdtos\\appusercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{162334CF-7ED7-4684-BE0D-19CF4471498B}|RepositoryPatternTask.BL\\RepositoryPatternTask.BL.csproj|solutionrelative:repositorypatterntask.bl\\dtos\\appuserdtos\\appusercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4DE6829-8B17-4F9B-A6E8-0AACE440C538}|RepositoryPatternTask.API\\RepositoryPatternTask.API.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\repositorypatterntask\\repositorypatterntask.api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DE6829-8B17-4F9B-A6E8-0AACE440C538}|RepositoryPatternTask.API\\RepositoryPatternTask.API.csproj|solutionrelative:repositorypatterntask.api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162334CF-7ED7-4684-BE0D-19CF4471498B}|RepositoryPatternTask.BL\\RepositoryPatternTask.BL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\repositorypatterntask\\repositorypatterntask.bl\\services\\implementations\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162334CF-7ED7-4684-BE0D-19CF4471498B}|RepositoryPatternTask.BL\\RepositoryPatternTask.BL.csproj|solutionrelative:repositorypatterntask.bl\\services\\implementations\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162334CF-7ED7-4684-BE0D-19CF4471498B}|RepositoryPatternTask.BL\\RepositoryPatternTask.BL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\repositorypatterntask\\repositorypatterntask.bl\\services\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162334CF-7ED7-4684-BE0D-19CF4471498B}|RepositoryPatternTask.BL\\RepositoryPatternTask.BL.csproj|solutionrelative:repositorypatterntask.bl\\services\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162334CF-7ED7-4684-BE0D-19CF4471498B}|RepositoryPatternTask.BL\\RepositoryPatternTask.BL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\repositorypatterntask\\repositorypatterntask.bl\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162334CF-7ED7-4684-BE0D-19CF4471498B}|RepositoryPatternTask.BL\\RepositoryPatternTask.BL.csproj|solutionrelative:repositorypatterntask.bl\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4DE6829-8B17-4F9B-A6E8-0AACE440C538}|RepositoryPatternTask.API\\RepositoryPatternTask.API.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\repositorypatterntask\\repositorypatterntask.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4DE6829-8B17-4F9B-A6E8-0AACE440C538}|RepositoryPatternTask.API\\RepositoryPatternTask.API.csproj|solutionrelative:repositorypatterntask.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B703514-FA49-4589-B495-411D32A3C3FB}|RepositoryPatternTask.Core\\RepositoryPatternTask.Core.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\repositorypatterntask\\repositorypatterntask.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B703514-FA49-4589-B495-411D32A3C3FB}|RepositoryPatternTask.Core\\RepositoryPatternTask.Core.csproj|solutionrelative:repositorypatterntask.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{126079B4-0176-4170-8B71-A694CC565109}|RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\repositorypatterntask\\repositorypatterntask.dal\\repositories\\implementations\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126079B4-0176-4170-8B71-A694CC565109}|RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj|solutionrelative:repositorypatterntask.dal\\repositories\\implementations\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126079B4-0176-4170-8B71-A694CC565109}|RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\repositorypatterntask\\repositorypatterntask.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126079B4-0176-4170-8B71-A694CC565109}|RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj|solutionrelative:repositorypatterntask.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126079B4-0176-4170-8B71-A694CC565109}|RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\repositorypatterntask\\repositorypatterntask.dal\\repositories\\abstractions\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126079B4-0176-4170-8B71-A694CC565109}|RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj|solutionrelative:repositorypatterntask.dal\\repositories\\abstractions\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126079B4-0176-4170-8B71-A694CC565109}|RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\repositorypatterntask\\repositorypatterntask.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126079B4-0176-4170-8B71-A694CC565109}|RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj|solutionrelative:repositorypatterntask.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126079B4-0176-4170-8B71-A694CC565109}|RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\repositorypatterntask\\repositorypatterntask.dal\\repositories\\implementations\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126079B4-0176-4170-8B71-A694CC565109}|RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj|solutionrelative:repositorypatterntask.dal\\repositories\\implementations\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126079B4-0176-4170-8B71-A694CC565109}|RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\repositorypatterntask\\repositorypatterntask.dal\\repositories\\abstractions\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126079B4-0176-4170-8B71-A694CC565109}|RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj|solutionrelative:repositorypatterntask.dal\\repositories\\abstractions\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{126079B4-0176-4170-8B71-A694CC565109}|RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\repositorypatterntask\\repositorypatterntask.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{126079B4-0176-4170-8B71-A694CC565109}|RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj|solutionrelative:repositorypatterntask.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126079B4-0176-4170-8B71-A694CC565109}|RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\repositorypatterntask\\repositorypatterntask.dal\\dal\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126079B4-0176-4170-8B71-A694CC565109}|RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj|solutionrelative:repositorypatterntask.dal\\dal\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126079B4-0176-4170-8B71-A694CC565109}|RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\repositorypatterntask\\repositorypatterntask.dal\\dal\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126079B4-0176-4170-8B71-A694CC565109}|RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj|solutionrelative:repositorypatterntask.dal\\dal\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B703514-FA49-4589-B495-411D32A3C3FB}|RepositoryPatternTask.Core\\RepositoryPatternTask.Core.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\repositorypatterntask\\repositorypatterntask.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B703514-FA49-4589-B495-411D32A3C3FB}|RepositoryPatternTask.Core\\RepositoryPatternTask.Core.csproj|solutionrelative:repositorypatterntask.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +74,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\DAL\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternTask.DAL\\DAL\\Configurations\\EmployeeConfiguration.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\DAL\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "RepositoryPatternTask.DAL\\DAL\\Configurations\\EmployeeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:42:21.194Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.Core\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternTask.Core\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.Core\\Entities\\Employee.cs",
+              "RelativeToolTip": "RepositoryPatternTask.Core\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:40:53.349Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.API\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternTask.API\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.API\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "RepositoryPatternTask.API\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:48:32.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.API\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternTask.API\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.API\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "RepositoryPatternTask.API\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:48:31.271Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
@@ -39,19 +135,127 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.BL\\Services\\Implementations\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternTask.BL\\Services\\Implementations\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.BL\\Services\\Implementations\\DepartmentService.cs",
+              "RelativeToolTip": "RepositoryPatternTask.BL\\Services\\Implementations\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:47:43.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.BL\\Services\\Implementations\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternTask.BL\\Services\\Implementations\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.BL\\Services\\Implementations\\EmployeeService.cs",
+              "RelativeToolTip": "RepositoryPatternTask.BL\\Services\\Implementations\\EmployeeService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:47:40.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigurationServices.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.BL\\ConfigurationServices.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternTask.BL\\ConfigurationServices.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.BL\\ConfigurationServices.cs",
+              "RelativeToolTip": "RepositoryPatternTask.BL\\ConfigurationServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:47:05.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.API\\Program.cs",
               "RelativeDocumentMoniker": "RepositoryPatternTask.API\\Program.cs",
               "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.API\\Program.cs",
               "RelativeToolTip": "RepositoryPatternTask.API\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T20:18:03.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T20:46:52.552Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\Repositories\\Implementations\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternTask.DAL\\Repositories\\Implementations\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\Repositories\\Implementations\\DepartmentRepository.cs",
+              "RelativeToolTip": "RepositoryPatternTask.DAL\\Repositories\\Implementations\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:45:15.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternTask.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeToolTip": "RepositoryPatternTask.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:45:10.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\Repositories\\Abstractions\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternTask.DAL\\Repositories\\Abstractions\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\Repositories\\Abstractions\\IEmployeeRepository.cs",
+              "RelativeToolTip": "RepositoryPatternTask.DAL\\Repositories\\Abstractions\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:45:07.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternTask.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "RepositoryPatternTask.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:45:20.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\Repositories\\Implementations\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternTask.DAL\\Repositories\\Implementations\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\Repositories\\Implementations\\EmployeeRepository.cs",
+              "RelativeToolTip": "RepositoryPatternTask.DAL\\Repositories\\Implementations\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:45:18.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\Repositories\\Abstractions\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternTask.DAL\\Repositories\\Abstractions\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\Repositories\\Abstractions\\IDepartmentRepository.cs",
+              "RelativeToolTip": "RepositoryPatternTask.DAL\\Repositories\\Abstractions\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:45:03.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "RepositoryPatternTask.DAL\\DAL\\AppDbContext.cs",
@@ -59,45 +263,19 @@
               "RelativeToolTip": "RepositoryPatternTask.DAL\\DAL\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T20:16:34.236Z"
+              "WhenOpened": "2024-12-23T20:44:46.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppUserController.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.API\\Controllers\\AppUserController.cs",
-              "RelativeDocumentMoniker": "RepositoryPatternTask.API\\Controllers\\AppUserController.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.API\\Controllers\\AppUserController.cs",
-              "RelativeToolTip": "RepositoryPatternTask.API\\Controllers\\AppUserController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T20:00:58.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppUserCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.BL\\DTOs\\AppUserDtos\\AppUserCreateDto.cs",
-              "RelativeDocumentMoniker": "RepositoryPatternTask.BL\\DTOs\\AppUserDtos\\AppUserCreateDto.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.BL\\DTOs\\AppUserDtos\\AppUserCreateDto.cs",
-              "RelativeToolTip": "RepositoryPatternTask.BL\\DTOs\\AppUserDtos\\AppUserCreateDto.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T19:59:11.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.Core\\Entities\\AppUser.cs",
-              "RelativeDocumentMoniker": "RepositoryPatternTask.Core\\Entities\\AppUser.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.Core\\Entities\\AppUser.cs",
-              "RelativeToolTip": "RepositoryPatternTask.Core\\Entities\\AppUser.cs",
+              "DocumentIndex": 14,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\DAL\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternTask.DAL\\DAL\\Configurations\\DepartmentConfiguration.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\DAL\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "RepositoryPatternTask.DAL\\DAL\\Configurations\\DepartmentConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T19:58:44.383Z"
+              "WhenOpened": "2024-12-23T20:44:40.84Z"
             }
           ]
         },

@@ -51,6 +51,8 @@ namespace RepositoryPatternTask.BL.Services.Implementations
             return true;    
         }
 
+
+
         public async Task<bool> UpdateAsync(int id, EmployeeCreateDto employeeUpdateDto)
         {
             var employeeEntity = await GetByIdAsync(id);
@@ -58,7 +60,6 @@ namespace RepositoryPatternTask.BL.Services.Implementations
             updatedEmployee.UpdatedAt = DateTime.UtcNow.AddHours(4);
             updatedEmployee.Id = id;
             _employeeRepo.Update(updatedEmployee);  
-            _employeeRepo.Update(updatedEmployee);
             await _employeeRepo.SaveChangesAsync();
             return true;
         }

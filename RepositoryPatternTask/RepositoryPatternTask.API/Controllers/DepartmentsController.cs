@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using RepositoryPatternTask.BL.DTOs.DepartmentDtos;
+using RepositoryPatternTask.BL.DTOs.EmployeeDtos;
 using RepositoryPatternTask.BL.Services.Abstractions;
+using RepositoryPatternTask.BL.Services.Implementations;
 using RepositoryPatternTask.Core.Entities;
 
 namespace RepositoryPatternTask.API.Controllers;
@@ -32,4 +34,55 @@ public class DepartmentsController : ControllerBase
         }
         return StatusCode(StatusCodes.Status200OK, await _departmentService.CreateAsync(createDto));
     }
+
+
+
+
+    [HttpGet("{id}")]
+    public async Task<IActionResult> GetById(int id)
+    {
+        try
+        {
+            return StatusCode(StatusCodes.Status200OK, await _departmentService.GetByIdAsync(id));
+        }
+        catch (Exception e)
+        {
+            return StatusCode(StatusCodes.Status404NotFound, e.Message);
+        }
+    }
+
+
+    [HttpDelete("{id}")]
+    public async Task<IActionResult> Delete(int id)
+    {
+        try
+        {
+            return StatusCode(StatusCodes.Status200OK, await _departmentService.SoftDeleteAsync(id));
+        }
+        catch (Exception e)
+        {
+            return StatusCode(StatusCodes.Status400BadRequest, e.Message);
+        }
+    }
+
+
+    [HttpPut("updateemployee/{id}")]
+    public async Task<IActionResult> Update(int id, DepartmentCreateDto departmentUpdateDto)
+    {
+        if (!ModelState.IsValid)
+        {
+            return StatusCode(StatusCodes.Status400BadRequest, ModelState);
+        }
+        try
+        {
+            return StatusCode(StatusCodes.Status200OK, await _departmentService.UpdateAsync(id, departmentUpdateDto));
+        }
+        catch (Exception e)
+        {
+            return StatusCode(StatusCodes.Status400BadRequest, e.Message);
+        }
+    }
+
+
+
 }
