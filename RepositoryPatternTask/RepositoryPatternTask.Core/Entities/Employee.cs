@@ -10,6 +10,7 @@ namespace RepositoryPatternTask.Core.Entities
         public string PhoneNumber { get; set; } 
         public string Position { get; set; }    
         public bool IsActive { get; set; }    
-        public int DepartmentId { get; set; }       
+        public int DepartmentId { get; set; }     
+        public Department? Department { get; set; } 
     }
 }

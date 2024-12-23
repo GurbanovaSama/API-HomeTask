@@ -10,6 +10,8 @@ namespace RepositoryPatternTask.BL.Profiles.EmployeeProfiles
         {
             CreateMap<EmployeeCreateDto, Employee>();
             CreateMap<EmployeeCreateDto, Employee>().ReverseMap();
+            //CreateMap<EmployeeUpdateDto, Employee>();
+            //CreateMap<EmployeeUpdateDto, Employee>().ReverseMap();
         }
     }
 }

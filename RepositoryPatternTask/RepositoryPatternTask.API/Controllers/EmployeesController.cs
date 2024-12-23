@@ -25,6 +25,8 @@ public class EmployeesController : ControllerBase
         return await _employeeService.GetALLAsync();   
     }
 
+
+
     [HttpPost]
     public async Task<IActionResult> Create(EmployeeCreateDto createDto)
     {
@@ -38,7 +40,7 @@ public class EmployeesController : ControllerBase
 
     [HttpGet]
     [Route("id")]
-    public async Task<Employee> GetById(int id)
+    public async Task<IActionResult> GetById(int id)
     {
         try
         {
@@ -49,4 +51,46 @@ public class EmployeesController : ControllerBase
             return StatusCode(StatusCodes.Status404NotFound, e.Message);
         }
     }
+
+
+
+    [HttpDelete]
+    [Route("id")]
+    public async Task<IActionResult> Delete(int id)
+    {
+        try
+        {
+            return StatusCode(StatusCodes.Status200OK, await _employeeService.SoftDeleteAsync(id));
+        }
+        catch (Exception e)
+        {
+            return StatusCode(StatusCodes.Status400BadRequest, e.Message);
+        }
+    }
+
+
+
+    [HttpPut]
+    [Route("id")]
+    public async Task<IActionResult> Update(int id, EmployeeCreateDto employeeUpdateDto)
+    {
+        try
+        {
+            return StatusCode(StatusCodes.Status200OK, await _employeeService.UpdateAsync(id, employeeUpdateDto));
+        }
+        catch (Exception e)
+        {
+            return StatusCode(StatusCodes.Status400BadRequest, e.Message);
+        }
+    }
+
+
+
+
+
+
+
+
+
+
 }

@@ -32,8 +32,6 @@ namespace RepositoryPatternTask.BL.Services.Implementations
             return createdEntity;
         }
 
-
-
         public async Task<Employee> GetByIdAsync(int id)
         {
             if(!await _employeeRepo.IsExistsAsync(id))
@@ -41,6 +39,28 @@ namespace RepositoryPatternTask.BL.Services.Implementations
                 throw new EntityNotFoundException();
             }
             return await _employeeRepo.GetByIdAsync(id);   
+        }
+
+
+
+        public async Task<bool> SoftDeleteAsync(int id)
+        {
+            var employeeEntity = await GetByIdAsync(id);
+            _employeeRepo.SoftDelete(employeeEntity);
+            await _employeeRepo.SaveChangesAsync();
+            return true;    
+        }
+
+        public async Task<bool> UpdateAsync(int id, EmployeeCreateDto employeeUpdateDto)
+        {
+            var employeeEntity = await GetByIdAsync(id);
+            Employee updatedEmployee = _mapper.Map<Employee>(employeeUpdateDto);
+            updatedEmployee.UpdatedAt = DateTime.UtcNow.AddHours(4);
+            updatedEmployee.Id = id;
+            _employeeRepo.Update(updatedEmployee);  
+            _employeeRepo.Update(updatedEmployee);
+            await _employeeRepo.SaveChangesAsync();
+            return true;
         }
     }
 }

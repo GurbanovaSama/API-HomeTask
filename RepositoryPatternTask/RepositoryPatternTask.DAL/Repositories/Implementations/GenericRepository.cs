@@ -20,7 +20,7 @@ namespace RepositoryPatternTask.DAL.Repositories.Implementations
 
         public async Task<ICollection<Tentity>> GetAllAsync()
         {
-           return await table.ToListAsync();
+           return await table.Where(x => !x.IsDeleted).ToListAsync();
         }
 
         public async Task<Tentity> CreateAsync(Tentity entity)
@@ -31,17 +31,19 @@ namespace RepositoryPatternTask.DAL.Repositories.Implementations
 
         public async Task<Tentity> GetByIdAsync(int Id)
         {
-          return await table.FirstOrDefaultAsync(x => x.Id == Id);     
+          var entity = await table.FirstOrDefaultAsync(x => x.Id == Id && !x.IsDeleted);  
+            _context.Entry(entity).State = EntityState.Detached;
+            return entity;
         }
 
         public void Update(Tentity entity)
         {
-            table.Update(entity);   
+            _context.Entry(entity).State = EntityState.Modified;  
         }
 
-        public void Delete(Tentity entity)
+        public void SoftDelete(Tentity entity)
         {
-            table.Remove(entity);
+            entity.IsDeleted = true;     
         }
 
         public async Task<int> SaveChangesAsync()
@@ -49,9 +51,9 @@ namespace RepositoryPatternTask.DAL.Repositories.Implementations
             return await _context.SaveChangesAsync();
         }
 
-        public Task<bool> IsExistsAsync(int Id)
+        public async Task<bool> IsExistsAsync(int Id)
         {
-            return table.AnyAsync(x => x.Id == Id && !x.IsDeleted);
+            return await table.AnyAsync(x => x.Id == Id && !x.IsDeleted);
         }
     }
 }
