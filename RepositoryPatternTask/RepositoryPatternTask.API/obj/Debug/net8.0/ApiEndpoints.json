@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "RepositoryPatternTask.API.Controllers.AuthsController",
+    "Method": "Register",
+    "RelativePath": "api/Auths/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "appUserCreateDto",
+        "Type": "RepositoryPatternTask.BL.DTOs.AppUserDtos.AppUserCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "RepositoryPatternTask.API.Controllers.DepartmentsController",
     "Method": "GetAllAsync",
     "RelativePath": "api/Departments",
@@ -74,7 +90,7 @@
   {
     "ContainingType": "RepositoryPatternTask.API.Controllers.EmployeesController",
     "Method": "GetById",
-    "RelativePath": "api/Employees/id",
+    "RelativePath": "api/Employees/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -82,7 +98,7 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -90,7 +106,7 @@
   {
     "ContainingType": "RepositoryPatternTask.API.Controllers.EmployeesController",
     "Method": "Delete",
-    "RelativePath": "api/Employees/id",
+    "RelativePath": "api/Employees/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -98,7 +114,7 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -106,7 +122,7 @@
   {
     "ContainingType": "RepositoryPatternTask.API.Controllers.EmployeesController",
     "Method": "Update",
-    "RelativePath": "api/Employees/id",
+    "RelativePath": "api/Employees/updateemployee/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -114,7 +130,7 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       },
       {
         "Name": "employeeUpdateDto",

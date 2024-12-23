@@ -38,8 +38,7 @@ public class EmployeesController : ControllerBase
     }
 
 
-    [HttpGet]
-    [Route("id")]
+    [HttpGet("{id}")]
     public async Task<IActionResult> GetById(int id)
     {
         try
@@ -54,8 +53,7 @@ public class EmployeesController : ControllerBase
 
 
 
-    [HttpDelete]
-    [Route("id")]
+    [HttpDelete("{id}")]
     public async Task<IActionResult> Delete(int id)
     {
         try
@@ -70,10 +68,13 @@ public class EmployeesController : ControllerBase
 
 
 
-    [HttpPut]
-    [Route("id")]
+    [HttpPut("updateemployee/{id}" )]
     public async Task<IActionResult> Update(int id, EmployeeCreateDto employeeUpdateDto)
     {
+        if (!ModelState.IsValid)
+        {
+            return StatusCode(StatusCodes.Status400BadRequest, ModelState);
+        }
         try
         {
             return StatusCode(StatusCodes.Status200OK, await _employeeService.UpdateAsync(id, employeeUpdateDto));

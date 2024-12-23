@@ -1,10 +1,13 @@
 using FluentValidation;
 using FluentValidation.AspNetCore;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using RepositoryPatternTask.BL;
 using RepositoryPatternTask.BL.DTOs.EmployeeDtos;
 using RepositoryPatternTask.BL.Profiles.EmployeeProfiles;
 using RepositoryPatternTask.BL.Services.Abstractions;
 using RepositoryPatternTask.BL.Services.Implementations;
+using RepositoryPatternTask.Core.Entities;
 using RepositoryPatternTask.DAL.DAL;
 using RepositoryPatternTask.DAL.Repositories.Abstractions;
 using RepositoryPatternTask.DAL.Repositories.Implementations;
@@ -12,13 +15,21 @@ using RepositoryPatternTask.DAL.Repositories.Implementations;
 
 var builder = WebApplication.CreateBuilder(args);
 
-
-
 builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
 builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
+builder.Services.AddBusinessServices();
+builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
+{
+    {
+        opt.Password.RequiredLength = 8;
+        opt.User.RequireUniqueEmail = true;
+        opt.User.AllowedUserNameCharacters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789._";
+        opt.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(10);
+        opt.Lockout.MaxFailedAccessAttempts = 3;
+    }
+}).AddDefaultTokenProviders().AddEntityFrameworkStores<AppDbContext>();
 
-builder.Services.AddScoped<IDepartmentService, DepartmentService>();
-builder.Services.AddScoped<IEmployeeService, EmployeeService>();
+
 
 
 
