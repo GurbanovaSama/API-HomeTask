@@ -1,5 +1,84 @@
 [
   {
+    "ContainingType": "RepositoryPatternTask.API.Controllers.AppUserController",
+    "Method": "CreateAppUser",
+    "RelativePath": "api/AppUser/create user",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RepositoryPatternTask.BL.DTOs.AppUserDtos.AppUserCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPatternTask.API.Controllers.AppUserController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/AppUser/getAllUsers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPatternTask.API.Controllers.AppUserController",
+    "Method": "GetOneUser",
+    "RelativePath": "api/AppUser/getOneUser/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPatternTask.API.Controllers.AuthsController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/Auths/change-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "changePasswordDto",
+        "Type": "RepositoryPatternTask.BL.DTOs.AppUserDtos.ChangePasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPatternTask.API.Controllers.AuthsController",
+    "Method": "ConfirmEmail",
+    "RelativePath": "api/Auths/confirm-email",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "RepositoryPatternTask.API.Controllers.AuthsController",
     "Method": "Register",
     "RelativePath": "api/Auths/register",

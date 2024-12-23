@@ -1,4 +1,5 @@
 ﻿using FluentValidation;
+using System.ComponentModel.DataAnnotations;
 using System.Text.RegularExpressions;
 
 namespace RepositoryPatternTask.BL.DTOs.AppUserDtos
@@ -7,6 +8,8 @@ namespace RepositoryPatternTask.BL.DTOs.AppUserDtos
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
+        [Required]
+        [RegularExpression(@"^\+994(50|51|55|70|77|99)[0-9]{7}$", ErrorMessage = "Invalid Azerbaijani phone number")]
         public string PhoneNumber { get; set; }
         public string UserName { get; set; }
         public string Email { get; set; }

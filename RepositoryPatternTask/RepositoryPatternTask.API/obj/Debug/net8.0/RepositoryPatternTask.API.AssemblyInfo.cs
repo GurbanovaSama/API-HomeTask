@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RepositoryPatternTask.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebc6d172d978cefecf1c63f6c710bc3f3a46e7d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c79ee0e70c22f5776ce4e208baf30624cb9b0883")]
 [assembly: System.Reflection.AssemblyProductAttribute("RepositoryPatternTask.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RepositoryPatternTask.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

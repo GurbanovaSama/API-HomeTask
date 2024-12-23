@@ -32,5 +32,35 @@ namespace RepositoryPatternTask.API.Controllers
                 return StatusCode(StatusCodes.Status400BadRequest, e.Message);
             }
         }
+
+
+
+        [HttpPost("confirm-email")]
+        public async Task<IActionResult> ConfirmEmail(string userId, string token)
+        {
+            var result = await _authService.ConfirmEmailAsync(userId, token);
+            if (!result)
+            {
+                return BadRequest("Email confirmation failed");
+            }
+            return Ok("Successfully");
+
+
+
+
+        }
+
+
+        [HttpPost("change-password")]
+        public async Task<IActionResult> ChangePassword([FromBody] ChangePasswordDto changePasswordDto)
+        {
+            var result = await _authService.ChangePasswordAsync(changePasswordDto); 
+            if (!result)
+            {
+                return BadRequest("Password change failed");
+            }
+            return Ok("Successfully");
+        }
+
     }
 }

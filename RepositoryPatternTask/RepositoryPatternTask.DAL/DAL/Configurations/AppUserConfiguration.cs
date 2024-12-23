@@ -11,6 +11,7 @@ namespace RepositoryPatternTask.DAL.DAL.Configurations
             builder.Property(x => x.FirstName).HasMaxLength(40);
             builder.Property(x => x.LastName).HasMaxLength(65);
             builder.Property(x => x.PhoneNumber).HasMaxLength(15);
+
         }
     }
 }
