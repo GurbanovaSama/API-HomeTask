@@ -21,3 +21,16 @@ C:\Users\II Novbe\Desktop\API-HomeTask\RepositoryPatternTask\RepositoryPatternTa
 C:\Users\II Novbe\Desktop\API-HomeTask\RepositoryPatternTask\RepositoryPatternTask.Core\obj\Debug\net8.0\refint\RepositoryPatternTask.Core.dll
 C:\Users\II Novbe\Desktop\API-HomeTask\RepositoryPatternTask\RepositoryPatternTask.Core\obj\Debug\net8.0\RepositoryPatternTask.Core.pdb
 C:\Users\II Novbe\Desktop\API-HomeTask\RepositoryPatternTask\RepositoryPatternTask.Core\obj\Debug\net8.0\ref\RepositoryPatternTask.Core.dll
+C:\Users\Sema Gurbanova\Desktop\API-HomeTask\RepositoryPatternTask\RepositoryPatternTask.Core\bin\Debug\net8.0\RepositoryPatternTask.Core.deps.json
+C:\Users\Sema Gurbanova\Desktop\API-HomeTask\RepositoryPatternTask\RepositoryPatternTask.Core\bin\Debug\net8.0\RepositoryPatternTask.Core.dll
+C:\Users\Sema Gurbanova\Desktop\API-HomeTask\RepositoryPatternTask\RepositoryPatternTask.Core\bin\Debug\net8.0\RepositoryPatternTask.Core.pdb
+C:\Users\Sema Gurbanova\Desktop\API-HomeTask\RepositoryPatternTask\RepositoryPatternTask.Core\obj\Debug\net8.0\RepositoryPatternTask.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sema Gurbanova\Desktop\API-HomeTask\RepositoryPatternTask\RepositoryPatternTask.Core\obj\Debug\net8.0\RepositoryPatternTask.Core.AssemblyInfoInputs.cache
+C:\Users\Sema Gurbanova\Desktop\API-HomeTask\RepositoryPatternTask\RepositoryPatternTask.Core\obj\Debug\net8.0\RepositoryPatternTask.Core.AssemblyInfo.cs
+C:\Users\Sema Gurbanova\Desktop\API-HomeTask\RepositoryPatternTask\RepositoryPatternTask.Core\obj\Debug\net8.0\RepositoryPatternTask.Core.csproj.CoreCompileInputs.cache
+C:\Users\Sema Gurbanova\Desktop\API-HomeTask\RepositoryPatternTask\RepositoryPatternTask.Core\obj\Debug\net8.0\RepositoryPatternTask.Core.sourcelink.json
+C:\Users\Sema Gurbanova\Desktop\API-HomeTask\RepositoryPatternTask\RepositoryPatternTask.Core\obj\Debug\net8.0\RepositoryPatternTask.Core.dll
+C:\Users\Sema Gurbanova\Desktop\API-HomeTask\RepositoryPatternTask\RepositoryPatternTask.Core\obj\Debug\net8.0\refint\RepositoryPatternTask.Core.dll
+C:\Users\Sema Gurbanova\Desktop\API-HomeTask\RepositoryPatternTask\RepositoryPatternTask.Core\obj\Debug\net8.0\RepositoryPatternTask.Core.pdb
+C:\Users\Sema Gurbanova\Desktop\API-HomeTask\RepositoryPatternTask\RepositoryPatternTask.Core\obj\Debug\net8.0\ref\RepositoryPatternTask.Core.dll
+C:\Users\Sema Gurbanova\Desktop\API-HomeTask\RepositoryPatternTask\RepositoryPatternTask.Core\obj\Debug\net8.0\RepositoryPatternTask.Core.csproj.AssemblyReference.cache

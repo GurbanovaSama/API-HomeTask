@@ -2,11 +2,6 @@
 using RepositoryPatternTask.Core.Entities.Base;
 using RepositoryPatternTask.DAL.DAL;
 using RepositoryPatternTask.DAL.Repositories.Abstractions;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace RepositoryPatternTask.DAL.Repositories.Implementations
 {
@@ -52,6 +47,11 @@ namespace RepositoryPatternTask.DAL.Repositories.Implementations
         public async Task<int> SaveChangesAsync()
         {
             return await _context.SaveChangesAsync();
+        }
+
+        public Task<bool> IsExistsAsync(int Id)
+        {
+            return table.AnyAsync(x => x.Id == Id && !x.IsDeleted);
         }
     }
 }

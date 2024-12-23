@@ -20,6 +20,22 @@
     ]
   },
   {
+    "ContainingType": "RepositoryPatternTask.API.Controllers.DepartmentsController",
+    "Method": "Create",
+    "RelativePath": "api/Departments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createDto",
+        "Type": "RepositoryPatternTask.BL.DTOs.DepartmentDtos.DepartmentCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "RepositoryPatternTask.API.Controllers.EmployeesController",
     "Method": "GetAll",
     "RelativePath": "api/Employees",
@@ -53,16 +69,6 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "RepositoryPatternTask.Core.Entities.Employee",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   }
 ]

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.API\\RepositoryPatternTask.API.csproj": {}
+    "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.API\\RepositoryPatternTask.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.API\\RepositoryPatternTask.API.csproj": {
+    "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.API\\RepositoryPatternTask.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.API\\RepositoryPatternTask.API.csproj",
+        "projectUniqueName": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.API\\RepositoryPatternTask.API.csproj",
         "projectName": "RepositoryPatternTask.API",
-        "projectPath": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.API\\RepositoryPatternTask.API.csproj",
-        "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.API\\obj\\",
+        "projectPath": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.API\\RepositoryPatternTask.API.csproj",
+        "packagesPath": "C:\\Users\\Sema Gurbanova\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sema Gurbanova\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,15 +26,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.BL\\RepositoryPatternTask.BL.csproj": {
-                "projectPath": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.BL\\RepositoryPatternTask.BL.csproj"
+              "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.BL\\RepositoryPatternTask.BL.csproj": {
+                "projectPath": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.BL\\RepositoryPatternTask.BL.csproj"
               }
             }
           }
@@ -47,13 +46,26 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -84,24 +96,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.BL\\RepositoryPatternTask.BL.csproj": {
+    "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.BL\\RepositoryPatternTask.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.BL\\RepositoryPatternTask.BL.csproj",
+        "projectUniqueName": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.BL\\RepositoryPatternTask.BL.csproj",
         "projectName": "RepositoryPatternTask.BL",
-        "projectPath": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.BL\\RepositoryPatternTask.BL.csproj",
-        "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.BL\\obj\\",
+        "projectPath": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.BL\\RepositoryPatternTask.BL.csproj",
+        "packagesPath": "C:\\Users\\Sema Gurbanova\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sema Gurbanova\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -110,15 +122,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj": {
-                "projectPath": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj"
+              "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj": {
+                "projectPath": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj"
               }
             }
           }
@@ -131,12 +142,27 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -153,24 +179,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.Core\\RepositoryPatternTask.Core.csproj": {
+    "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.Core\\RepositoryPatternTask.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.Core\\RepositoryPatternTask.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.Core\\RepositoryPatternTask.Core.csproj",
         "projectName": "RepositoryPatternTask.Core",
-        "projectPath": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.Core\\RepositoryPatternTask.Core.csproj",
-        "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.Core\\obj\\",
+        "projectPath": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.Core\\RepositoryPatternTask.Core.csproj",
+        "packagesPath": "C:\\Users\\Sema Gurbanova\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sema Gurbanova\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -179,7 +205,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -196,12 +221,27 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -218,24 +258,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj": {
+    "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj",
         "projectName": "RepositoryPatternTask.DAL",
-        "projectPath": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj",
-        "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\obj\\",
+        "projectPath": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\RepositoryPatternTask.DAL.csproj",
+        "packagesPath": "C:\\Users\\Sema Gurbanova\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sema Gurbanova\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -244,15 +284,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.Core\\RepositoryPatternTask.Core.csproj": {
-                "projectPath": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.Core\\RepositoryPatternTask.Core.csproj"
+              "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.Core\\RepositoryPatternTask.Core.csproj": {
+                "projectPath": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\RepositoryPatternTask\\RepositoryPatternTask.Core\\RepositoryPatternTask.Core.csproj"
               }
             }
           }
@@ -265,13 +304,26 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.11, )"
@@ -303,7 +355,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

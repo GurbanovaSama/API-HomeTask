@@ -1,23 +1,21 @@
-﻿using RepositoryPatternTask.BL.DTOs.EmployeeDtos;
+﻿using AutoMapper;
+using RepositoryPatternTask.BL.DTOs.EmployeeDtos;
+using RepositoryPatternTask.BL.Exceptions.CommonExceptions;
 using RepositoryPatternTask.BL.Services.Abstractions;
 using RepositoryPatternTask.Core.Entities;
 using RepositoryPatternTask.DAL.Repositories.Abstractions;
-using RepositoryPatternTask.DAL.Repositories.Implementations;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace RepositoryPatternTask.BL.Services.Implementations
 {
     public class EmployeeService : IEmployeeService
     {
         private readonly IEmployeeRepository _employeeRepo;
+        private readonly IMapper _mapper;
 
-        public EmployeeService(IEmployeeRepository employeeRepo)
+        public EmployeeService(IEmployeeRepository employeeRepo, IMapper mapper)
         {
             _employeeRepo = employeeRepo;
+            _mapper = mapper;
         }
 
         public async Task<ICollection<Employee>> GetALLAsync()
@@ -27,22 +25,22 @@ namespace RepositoryPatternTask.BL.Services.Implementations
 
         public async Task<Employee> CreateAsync(EmployeeCreateDto entityDto)
         {
-            Employee employee = new Employee();  
-            employee.FirstName = entityDto.FirstName;
-            employee.LastName = entityDto.LastName;
-            employee.Email = entityDto.Email;
-            employee.PhoneNumber = entityDto.PhoneNumber;   
-            employee.Position = entityDto.Position; 
-            employee.DepartmentId = entityDto.DepartmentId;
-            employee.CreatedAt = DateTime.UtcNow.AddHours(4);
-            employee.UpdatedAt = DateTime.UtcNow.AddHours(4);
-            employee.DeletedAt = DateTime.UtcNow.AddHours(4);
-            employee.CreatedBy = "Sema";
-            employee.DeletedBy = "Sema";
-
-            var createdEntity = await _employeeRepo.CreateAsync(employee);  
+            Employee createdEmployee = _mapper.Map<Employee>(entityDto);
+            createdEmployee.CreatedAt = DateTime.UtcNow.AddHours(4);
+            var createdEntity = await _employeeRepo.CreateAsync(createdEmployee);  
             await _employeeRepo.SaveChangesAsync(); 
             return createdEntity;
+        }
+
+
+
+        public async Task<Employee> GetByIdAsync(int id)
+        {
+            if(!await _employeeRepo.IsExistsAsync(id))
+            {
+                throw new EntityNotFoundException();
+            }
+            return await _employeeRepo.GetByIdAsync(id);   
         }
     }
 }

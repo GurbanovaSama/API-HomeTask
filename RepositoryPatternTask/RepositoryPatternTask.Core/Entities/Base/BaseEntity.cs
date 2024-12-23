@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace RepositoryPatternTask.Core.Entities.Base
+﻿namespace RepositoryPatternTask.Core.Entities.Base
 {
     public abstract class BaseEntity
     {

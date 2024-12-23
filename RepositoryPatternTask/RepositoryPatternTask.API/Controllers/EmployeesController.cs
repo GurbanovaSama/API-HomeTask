@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using RepositoryPatternTask.BL.DTOs.EmployeeDtos;
+using RepositoryPatternTask.BL.Exceptions.CommonExceptions;
 using RepositoryPatternTask.BL.Services.Abstractions;
 using RepositoryPatternTask.Core.Entities;
 using RepositoryPatternTask.DAL.DAL;
@@ -25,9 +26,27 @@ public class EmployeesController : ControllerBase
     }
 
     [HttpPost]
-    public async Task<Employee> Create(EmployeeCreateDto createDto)
+    public async Task<IActionResult> Create(EmployeeCreateDto createDto)
     {
-        return await _employeeService.CreateAsync(createDto);
+        if (!ModelState.IsValid)
+        {
+            return StatusCode(StatusCodes.Status400BadRequest, ModelState);
+        }
+        return StatusCode(StatusCodes.Status201Created, await _employeeService.CreateAsync(createDto));
     }
 
+
+    [HttpGet]
+    [Route("id")]
+    public async Task<Employee> GetById(int id)
+    {
+        try
+        {
+            return StatusCode(StatusCodes.Status200OK, await _employeeService.GetByIdAsync(id));
+        }
+        catch (Exception e)
+        {
+            return StatusCode(StatusCodes.Status404NotFound, e.Message);
+        }
+    }
 }

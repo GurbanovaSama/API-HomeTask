@@ -1,18 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace RepositoryPatternTask.Core.Entities.Base
+﻿namespace RepositoryPatternTask.Core.Entities.Base
 {
     public abstract class BaseAuditableEntity : BaseEntity
     {
         public DateTime CreatedAt { get; set; }
-        public DateTime UpdatedAt { get; set; }
-        public DateTime DeletedAt { get; set; }     
-        public string DeletedBy { get; set; }   
-        public string CreatedBy { get; set; }   
+        public DateTime? UpdatedAt { get; set; }
+        public DateTime? DeletedAt { get; set; }     
+        public string? DeletedBy { get; set; }   
+        public string? CreatedBy { get; set; }   
 
        
 
