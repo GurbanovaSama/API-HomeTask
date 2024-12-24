@@ -6,9 +6,10 @@ namespace WorkShopManagement.DAL.Repositories.Abstractions
     {
         Task<ICollection<Tentity>> GetAllAsync();
         Task<Tentity> GetByIdAsync(int Id);
+        Task<bool> IsExistsAsync(int Id);
         Task<Tentity> CreateAsync(Tentity entity);  
         void Update(Tentity entity);        
-        void Delete(Tentity entity);        
+        void SoftDelete(Tentity entity);        
         Task<int> SaveChangeAsync();  
     }
 }
