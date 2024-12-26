@@ -205,22 +205,6 @@
   },
   {
     "ContainingType": "RepositoryPatternTask.API.Controllers.EmployeesController",
-    "Method": "Create",
-    "RelativePath": "api/Employees",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "createDto",
-        "Type": "RepositoryPatternTask.BL.DTOs.EmployeeDtos.EmployeeCreateDto",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "RepositoryPatternTask.API.Controllers.EmployeesController",
     "Method": "GetById",
     "RelativePath": "api/Employees/{id}",
     "HttpMethod": "GET",
@@ -246,6 +230,22 @@
       {
         "Name": "id",
         "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPatternTask.API.Controllers.EmployeesController",
+    "Method": "CreateEmployee",
+    "RelativePath": "api/Employees/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RepositoryPatternTask.BL.DTOs.EmployeeDtos.EmployeeCreateDto",
         "IsRequired": true
       }
     ],

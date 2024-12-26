@@ -464,3 +464,4 @@ C:\Users\Sema Gurbanova\Desktop\API-HomeTask\RepositoryPatternTask\RepositoryPat
 C:\Users\Sema Gurbanova\Desktop\API-HomeTask\RepositoryPatternTask\RepositoryPatternTask.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\Sema Gurbanova\Desktop\API-HomeTask\RepositoryPatternTask\RepositoryPatternTask.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\Sema Gurbanova\Desktop\API-HomeTask\RepositoryPatternTask\RepositoryPatternTask.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Sema Gurbanova\Desktop\API-HomeTask\RepositoryPatternTask\RepositoryPatternTask.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
