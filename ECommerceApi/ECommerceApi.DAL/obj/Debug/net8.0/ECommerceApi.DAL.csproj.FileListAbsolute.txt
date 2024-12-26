@@ -1,0 +1,17 @@
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.DAL\bin\Debug\net8.0\ECommerceApi.DAL.deps.json
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.DAL\bin\Debug\net8.0\ECommerceApi.DAL.runtimeconfig.json
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.DAL\bin\Debug\net8.0\ECommerceApi.DAL.dll
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.DAL\bin\Debug\net8.0\ECommerceApi.DAL.pdb
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.DAL\bin\Debug\net8.0\ECommerceApi.Core.dll
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.DAL\bin\Debug\net8.0\ECommerceApi.Core.pdb
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.DAL\obj\Debug\net8.0\ECommerceApi.DAL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.DAL\obj\Debug\net8.0\ECommerceApi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.DAL\obj\Debug\net8.0\ECommerceApi.DAL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.DAL\obj\Debug\net8.0\ECommerceApi.DAL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.DAL\obj\Debug\net8.0\ECommerceApi.DAL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.DAL\obj\Debug\net8.0\ECommerc.6F1FC389.Up2Date
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.DAL\obj\Debug\net8.0\ECommerceApi.DAL.dll
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.DAL\obj\Debug\net8.0\refint\ECommerceApi.DAL.dll
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.DAL\obj\Debug\net8.0\ECommerceApi.DAL.pdb
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.DAL\obj\Debug\net8.0\ECommerceApi.DAL.genruntimeconfig.cache
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.DAL\obj\Debug\net8.0\ref\ECommerceApi.DAL.dll

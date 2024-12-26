@@ -1,0 +1,11 @@
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.Core\bin\Debug\net8.0\ECommerceApi.Core.deps.json
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.Core\bin\Debug\net8.0\ECommerceApi.Core.dll
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.Core\bin\Debug\net8.0\ECommerceApi.Core.pdb
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.Core\obj\Debug\net8.0\ECommerceApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.Core\obj\Debug\net8.0\ECommerceApi.Core.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.Core\obj\Debug\net8.0\ECommerceApi.Core.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.Core\obj\Debug\net8.0\ECommerceApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.Core\obj\Debug\net8.0\ECommerceApi.Core.dll
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.Core\obj\Debug\net8.0\refint\ECommerceApi.Core.dll
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.Core\obj\Debug\net8.0\ECommerceApi.Core.pdb
+C:\Users\II Novbe\source\repos\ECommerceApi\ECommerceApi.Core\obj\Debug\net8.0\ref\ECommerceApi.Core.dll
