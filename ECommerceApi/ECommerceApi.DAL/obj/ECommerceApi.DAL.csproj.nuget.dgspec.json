@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\II Novbe\\source\\repos\\ECommerceApi\\ECommerceApi.DAL\\ECommerceApi.DAL.csproj": {}
+    "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\ECommerceApi\\ECommerceApi.DAL\\ECommerceApi.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\II Novbe\\source\\repos\\ECommerceApi\\ECommerceApi.Core\\ECommerceApi.Core.csproj": {
+    "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\ECommerceApi\\ECommerceApi.Core\\ECommerceApi.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II Novbe\\source\\repos\\ECommerceApi\\ECommerceApi.Core\\ECommerceApi.Core.csproj",
+        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\ECommerceApi\\ECommerceApi.Core\\ECommerceApi.Core.csproj",
         "projectName": "ECommerceApi.Core",
-        "projectPath": "C:\\Users\\II Novbe\\source\\repos\\ECommerceApi\\ECommerceApi.Core\\ECommerceApi.Core.csproj",
+        "projectPath": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\ECommerceApi\\ECommerceApi.Core\\ECommerceApi.Core.csproj",
         "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II Novbe\\source\\repos\\ECommerceApi\\ECommerceApi.Core\\obj\\",
+        "outputPath": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\ECommerceApi\\ECommerceApi.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\II Novbe\\source\\repos\\ECommerceApi\\ECommerceApi.DAL\\ECommerceApi.DAL.csproj": {
+    "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\ECommerceApi\\ECommerceApi.DAL\\ECommerceApi.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II Novbe\\source\\repos\\ECommerceApi\\ECommerceApi.DAL\\ECommerceApi.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\ECommerceApi\\ECommerceApi.DAL\\ECommerceApi.DAL.csproj",
         "projectName": "ECommerceApi.DAL",
-        "projectPath": "C:\\Users\\II Novbe\\source\\repos\\ECommerceApi\\ECommerceApi.DAL\\ECommerceApi.DAL.csproj",
+        "projectPath": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\ECommerceApi\\ECommerceApi.DAL\\ECommerceApi.DAL.csproj",
         "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II Novbe\\source\\repos\\ECommerceApi\\ECommerceApi.DAL\\obj\\",
+        "outputPath": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\ECommerceApi\\ECommerceApi.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\II Novbe\\source\\repos\\ECommerceApi\\ECommerceApi.Core\\ECommerceApi.Core.csproj": {
-                "projectPath": "C:\\Users\\II Novbe\\source\\repos\\ECommerceApi\\ECommerceApi.Core\\ECommerceApi.Core.csproj"
+              "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\ECommerceApi\\ECommerceApi.Core\\ECommerceApi.Core.csproj": {
+                "projectPath": "C:\\Users\\II Novbe\\Desktop\\API-HomeTask\\ECommerceApi\\ECommerceApi.Core\\ECommerceApi.Core.csproj"
               }
             }
           }

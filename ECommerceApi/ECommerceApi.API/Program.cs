@@ -1,8 +1,25 @@
+using ECommerceApi.BL.Profiles.OrderItemProfiles;
+using ECommerceApi.BL.Profiles.OrderProfiles;
+using ECommerceApi.BL.Profiles.ProductProfiles;
+using ECommerceApi.BL.Services;
 using ECommerceApi.DAL.DAL;
+using ECommerceApi.DAL.Repositories.Abstractions;
+using ECommerceApi.DAL.Repositories.Implementations;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IOrderItemRepository, OrderItemRepository>();    
+builder.Services.AddScoped<IOrderRepository, OrderRepository>();
+builder.Services.AddBusinessServices();
+
+
+
+builder.Services.AddAutoMapper(typeof(OrderItemProfile));
+builder.Services.AddAutoMapper(typeof(OrderProfile));
+builder.Services.AddAutoMapper(typeof(
+    ProductProfile));
 // Add services to the container.
 
 builder.Services.AddControllers();
