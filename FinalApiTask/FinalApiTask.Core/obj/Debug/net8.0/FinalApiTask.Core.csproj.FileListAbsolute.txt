@@ -1,0 +1,11 @@
+C:\Users\Sema Gurbanova\source\repos\FinalApiTask\FinalApiTask.Core\bin\Debug\net8.0\FinalApiTask.Core.deps.json
+C:\Users\Sema Gurbanova\source\repos\FinalApiTask\FinalApiTask.Core\bin\Debug\net8.0\FinalApiTask.Core.dll
+C:\Users\Sema Gurbanova\source\repos\FinalApiTask\FinalApiTask.Core\bin\Debug\net8.0\FinalApiTask.Core.pdb
+C:\Users\Sema Gurbanova\source\repos\FinalApiTask\FinalApiTask.Core\obj\Debug\net8.0\FinalApiTask.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sema Gurbanova\source\repos\FinalApiTask\FinalApiTask.Core\obj\Debug\net8.0\FinalApiTask.Core.AssemblyInfoInputs.cache
+C:\Users\Sema Gurbanova\source\repos\FinalApiTask\FinalApiTask.Core\obj\Debug\net8.0\FinalApiTask.Core.AssemblyInfo.cs
+C:\Users\Sema Gurbanova\source\repos\FinalApiTask\FinalApiTask.Core\obj\Debug\net8.0\FinalApiTask.Core.csproj.CoreCompileInputs.cache
+C:\Users\Sema Gurbanova\source\repos\FinalApiTask\FinalApiTask.Core\obj\Debug\net8.0\FinalApiTask.Core.dll
+C:\Users\Sema Gurbanova\source\repos\FinalApiTask\FinalApiTask.Core\obj\Debug\net8.0\refint\FinalApiTask.Core.dll
+C:\Users\Sema Gurbanova\source\repos\FinalApiTask\FinalApiTask.Core\obj\Debug\net8.0\FinalApiTask.Core.pdb
+C:\Users\Sema Gurbanova\source\repos\FinalApiTask\FinalApiTask.Core\obj\Debug\net8.0\ref\FinalApiTask.Core.dll
