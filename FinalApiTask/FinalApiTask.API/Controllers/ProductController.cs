@@ -102,5 +102,22 @@ namespace FinalApiTask.API.Controllers
             }
         }
 
+
+
+        [HttpPost("{id}/upload")]
+        public async Task<IActionResult> UploadImage(int id, IFormFile file)
+        {
+            if (file == null || file.Length == 0)
+            {
+                return BadRequest("Invalid file.");
+            }
+            var result = await _productService.UploadImageAsync(id, file);
+            if (!result.Success)
+            {
+                return BadRequest(result.Message);
+            }
+            return Ok(new { path = result.Path });
+        }
+
     }
 }

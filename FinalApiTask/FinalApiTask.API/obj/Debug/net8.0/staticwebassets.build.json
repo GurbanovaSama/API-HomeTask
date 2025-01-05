@@ -1,12 +1,125 @@
 {
   "Version": 1,
-  "Hash": "Koq/w0uneYnBK4hMUQwD9cmIyue/A8KXp+6ZHYhc7AA=",
+  "Hash": "OhBDXUiKlI36NtZ1ufCyTWy47MbhAACV/HzORvf9t9Q=",
   "Source": "FinalApiTask.API",
   "BasePath": "_content/FinalApiTask.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "FinalApiTask.API\\wwwroot",
+      "Source": "FinalApiTask.API",
+      "ContentRoot": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.API\\wwwroot\\",
+      "BasePath": "_content/FinalApiTask.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.API\\wwwroot\\images\\images.jpg",
+      "SourceId": "FinalApiTask.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.API\\wwwroot\\",
+      "BasePath": "_content/FinalApiTask.API",
+      "RelativePath": "images/images#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ycv46rel32",
+      "Integrity": "wqlVva9xVUxeeeAy56aZCZ0ehEwW77BHcrnUcRWzZKc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/images.jpg",
+      "AssetFile": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.API\\wwwroot\\images\\images.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3985"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wqlVva9xVUxeeeAy56aZCZ0ehEwW77BHcrnUcRWzZKc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 11:50:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wqlVva9xVUxeeeAy56aZCZ0ehEwW77BHcrnUcRWzZKc="
+        }
+      ]
+    },
+    {
+      "Route": "images/images.ycv46rel32.jpg",
+      "AssetFile": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.API\\wwwroot\\images\\images.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3985"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wqlVva9xVUxeeeAy56aZCZ0ehEwW77BHcrnUcRWzZKc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 11:50:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ycv46rel32"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wqlVva9xVUxeeeAy56aZCZ0ehEwW77BHcrnUcRWzZKc="
+        }
+      ]
+    }
+  ]
 }

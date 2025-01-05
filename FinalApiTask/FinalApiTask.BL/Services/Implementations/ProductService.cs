@@ -5,6 +5,7 @@ using FinalApiTask.BL.Services.Abstractions;
 using FinalApiTask.Core.Entities;
 using FinalApiTask.DAL.Repositories.Abstractions;
 using FinalApiTask.DAL.Repositories.Implementations;
+using Microsoft.AspNetCore.Http;
 
 namespace FinalApiTask.BL.Services.Implementations
 {
@@ -78,5 +79,28 @@ namespace FinalApiTask.BL.Services.Implementations
             return true;
         }
 
+        public async Task<(bool Success, string Path, string Message)> UploadImageAsync(int id, IFormFile file)
+        {
+            if(file == null || file.Length == 0)
+            {
+                return (false, null, "Invalid file");
+            }
+            var path = Path.Combine("wwwroot/images", file.FileName);   
+            using(var stream = new FileStream(path, FileMode.Create))
+            {
+                await file.CopyToAsync(stream); 
+            }
+            var product = await _productRepo.GetByIdAsync(id);  
+            if(product == null)
+            {
+                return (false, null, "Product not found");
+            }
+            product.ImagePath = path;
+            await _productRepo.UpdateAsync(product);
+
+            return (true, path, null);
+        }
+
+    
     }
 }

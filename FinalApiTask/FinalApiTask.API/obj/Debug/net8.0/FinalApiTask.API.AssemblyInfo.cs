@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FinalApiTask.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+233d4c87203038ab41f52eb75ad2c2ffe17019e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77feda44b732c3551356dc7c4f13dddafe4a25c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("FinalApiTask.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FinalApiTask.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

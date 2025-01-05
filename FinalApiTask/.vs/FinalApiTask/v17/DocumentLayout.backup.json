@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E36AC6A-5B52-4A7D-B176-B6070F2B9BB9}|FinalApiTask.DAL\\FinalApiTask.DAL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\finalapitask\\finalapitask.dal\\repositories\\abstractions\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E36AC6A-5B52-4A7D-B176-B6070F2B9BB9}|FinalApiTask.DAL\\FinalApiTask.DAL.csproj|solutionrelative:finalapitask.dal\\repositories\\abstractions\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C303A0-95AC-4128-B3B1-D92CDB21A6D6}|FinalApiTask.BL\\FinalApiTask.BL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\finalapitask\\finalapitask.bl\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C303A0-95AC-4128-B3B1-D92CDB21A6D6}|FinalApiTask.BL\\FinalApiTask.BL.csproj|solutionrelative:finalapitask.bl\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C303A0-95AC-4128-B3B1-D92CDB21A6D6}|FinalApiTask.BL\\FinalApiTask.BL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\finalapitask\\finalapitask.bl\\services\\abstractions\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C303A0-95AC-4128-B3B1-D92CDB21A6D6}|FinalApiTask.BL\\FinalApiTask.BL.csproj|solutionrelative:finalapitask.bl\\services\\abstractions\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A151D3C-C531-4EA8-A070-C772CC330EE2}|FinalApiTask.API\\FinalApiTask.API.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\finalapitask\\finalapitask.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A151D3C-C531-4EA8-A070-C772CC330EE2}|FinalApiTask.API\\FinalApiTask.API.csproj|solutionrelative:finalapitask.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C303A0-95AC-4128-B3B1-D92CDB21A6D6}|FinalApiTask.BL\\FinalApiTask.BL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\finalapitask\\finalapitask.bl\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C303A0-95AC-4128-B3B1-D92CDB21A6D6}|FinalApiTask.BL\\FinalApiTask.BL.csproj|solutionrelative:finalapitask.bl\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E36AC6A-5B52-4A7D-B176-B6070F2B9BB9}|FinalApiTask.DAL\\FinalApiTask.DAL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\finalapitask\\finalapitask.dal\\repositories\\implementations\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E36AC6A-5B52-4A7D-B176-B6070F2B9BB9}|FinalApiTask.DAL\\FinalApiTask.DAL.csproj|solutionrelative:finalapitask.dal\\repositories\\implementations\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.DAL\\Repositories\\Implementations\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "FinalApiTask.DAL\\Repositories\\Implementations\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.DAL\\Repositories\\Implementations\\ProductRepo.cs",
+              "RelativeToolTip": "FinalApiTask.DAL\\Repositories\\Implementations\\ProductRepo.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T11:47:47.849Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.DAL\\Repositories\\Abstractions\\IProductRepo.cs",
+              "RelativeDocumentMoniker": "FinalApiTask.DAL\\Repositories\\Abstractions\\IProductRepo.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.DAL\\Repositories\\Abstractions\\IProductRepo.cs",
+              "RelativeToolTip": "FinalApiTask.DAL\\Repositories\\Abstractions\\IProductRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T11:47:44.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigurationServices.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.BL\\ConfigurationServices.cs",
+              "RelativeDocumentMoniker": "FinalApiTask.BL\\ConfigurationServices.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.BL\\ConfigurationServices.cs",
+              "RelativeToolTip": "FinalApiTask.BL\\ConfigurationServices.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T11:46:30.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.BL\\Services\\Abstractions\\IProductService.cs",
+              "RelativeDocumentMoniker": "FinalApiTask.BL\\Services\\Abstractions\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.BL\\Services\\Abstractions\\IProductService.cs",
+              "RelativeToolTip": "FinalApiTask.BL\\Services\\Abstractions\\IProductService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T11:45:50.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FinalApiTask.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FinalApiTask.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwv3cAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T11:43:00.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.BL\\Services\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "FinalApiTask.BL\\Services\\Implementations\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.BL\\Services\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "FinalApiTask.BL\\Services\\Implementations\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T11:42:57.574Z"
             }
           ]
         },

@@ -4,5 +4,6 @@ namespace FinalApiTask.DAL.Repositories.Abstractions
 {
     public interface IProductRepo : IGenericRepository<Product>
     {
+        Task UpdateAsync(Product product);
     }
 }

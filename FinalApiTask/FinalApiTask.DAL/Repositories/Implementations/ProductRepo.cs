@@ -8,6 +8,11 @@ namespace FinalApiTask.DAL.Repositories.Implementations
     {
         public ProductRepo(AppDbContext context) : base(context)
         {
-        } 
+        }
+
+        public Task UpdateAsync(Product product)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
