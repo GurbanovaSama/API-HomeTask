@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "FinalApiTask.API.Controllers.AuthsController",
+    "Method": "Login",
+    "RelativePath": "api/Auths/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "appUserLoginDto",
+        "Type": "FinalApiTask.BL.DTOs.AppUserDtos.AppUserLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalApiTask.API.Controllers.AuthsController",
+    "Method": "Register",
+    "RelativePath": "api/Auths/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "appUserCreateDto",
+        "Type": "FinalApiTask.BL.DTOs.AppUserDtos.AppUserCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "FinalApiTask.API.Controllers.CategoryController",
     "Method": "GetAll",
     "RelativePath": "api/Category",

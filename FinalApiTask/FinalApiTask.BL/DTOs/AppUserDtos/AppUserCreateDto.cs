@@ -5,27 +5,29 @@ namespace FinalApiTask.BL.DTOs.AppUserDtos
 {
     public record AppUserCreateDto
     {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
         public string UserName { get; set; }
         public string Email { get; set; }
         public string Password { get; set; }
+        public string ConfirmPassword { get; set; }
     }
 
     public class AppUserCreateDtoValidation : AbstractValidator<AppUserCreateDto> 
     {
         public AppUserCreateDtoValidation()
         {
-            RuleFor(x => x.UserName).NotEmpty()
-                 .NotNull()
-                 .WithMessage("Name cannot be empty")
-                 .MaximumLength(50).WithMessage("Maximum length is 50");
-            RuleFor(x => x.Email).NotEmpty()
-                .NotNull()
-                .WithMessage("Email cannot be empty")
-                 .MaximumLength(80).WithMessage("Maximum length is 80");
-            RuleFor(x => x.Password).NotEmpty()
-              .NotNull()
-              .WithMessage("Password cannot be empty")
-               .MaximumLength(12).WithMessage("Maximum length is 12");
+            RuleFor(b => b.FirstName).NotEmpty()
+            .WithMessage("Name cannot be empty")
+            .NotNull().WithMessage("Name cannot be null")
+            .MaximumLength(30).WithMessage("Maximum length is 30");
+
+            RuleFor(b => b.LastName).NotEmpty()
+           .WithMessage("Surname cannot be empty")
+           .NotNull().WithMessage("Surname cannot be null")
+           .MaximumLength(50).WithMessage("Surname Maximum length is 50");
+
+            RuleFor(b => b.Email).Must(e => BeValidEmailAddress(e)).WithMessage("Enter correct email address");
         }
 
 

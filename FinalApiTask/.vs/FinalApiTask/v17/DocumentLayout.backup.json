@@ -1,40 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{66C303A0-95AC-4128-B3B1-D92CDB21A6D6}|FinalApiTask.BL\\FinalApiTask.BL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\finalapitask\\finalapitask.bl\\services\\implementations\\productcolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C303A0-95AC-4128-B3B1-D92CDB21A6D6}|FinalApiTask.BL\\FinalApiTask.BL.csproj|solutionrelative:finalapitask.bl\\services\\implementations\\productcolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66C303A0-95AC-4128-B3B1-D92CDB21A6D6}|FinalApiTask.BL\\FinalApiTask.BL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\finalapitask\\finalapitask.bl\\services\\implementations\\productsizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C303A0-95AC-4128-B3B1-D92CDB21A6D6}|FinalApiTask.BL\\FinalApiTask.BL.csproj|solutionrelative:finalapitask.bl\\services\\implementations\\productsizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66C303A0-95AC-4128-B3B1-D92CDB21A6D6}|FinalApiTask.BL\\FinalApiTask.BL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\finalapitask\\finalapitask.bl\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C303A0-95AC-4128-B3B1-D92CDB21A6D6}|FinalApiTask.BL\\FinalApiTask.BL.csproj|solutionrelative:finalapitask.bl\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E36AC6A-5B52-4A7D-B176-B6070F2B9BB9}|FinalApiTask.DAL\\FinalApiTask.DAL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\finalapitask\\finalapitask.dal\\repositories\\implementations\\relationalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E36AC6A-5B52-4A7D-B176-B6070F2B9BB9}|FinalApiTask.DAL\\FinalApiTask.DAL.csproj|solutionrelative:finalapitask.dal\\repositories\\implementations\\relationalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66C303A0-95AC-4128-B3B1-D92CDB21A6D6}|FinalApiTask.BL\\FinalApiTask.BL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\finalapitask\\finalapitask.bl\\services\\abstractions\\iproductsizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C303A0-95AC-4128-B3B1-D92CDB21A6D6}|FinalApiTask.BL\\FinalApiTask.BL.csproj|solutionrelative:finalapitask.bl\\services\\abstractions\\iproductsizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E36AC6A-5B52-4A7D-B176-B6070F2B9BB9}|FinalApiTask.DAL\\FinalApiTask.DAL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\finalapitask\\finalapitask.dal\\repositories\\abstractions\\irelationalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E36AC6A-5B52-4A7D-B176-B6070F2B9BB9}|FinalApiTask.DAL\\FinalApiTask.DAL.csproj|solutionrelative:finalapitask.dal\\repositories\\abstractions\\irelationalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E36AC6A-5B52-4A7D-B176-B6070F2B9BB9}|FinalApiTask.DAL\\FinalApiTask.DAL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\finalapitask\\finalapitask.dal\\repositories\\implementations\\productcolorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E36AC6A-5B52-4A7D-B176-B6070F2B9BB9}|FinalApiTask.DAL\\FinalApiTask.DAL.csproj|solutionrelative:finalapitask.dal\\repositories\\implementations\\productcolorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E36AC6A-5B52-4A7D-B176-B6070F2B9BB9}|FinalApiTask.DAL\\FinalApiTask.DAL.csproj|c:\\users\\sema gurbanova\\desktop\\api-hometask\\finalapitask\\finalapitask.dal\\repositories\\implementations\\productsizerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E36AC6A-5B52-4A7D-B176-B6070F2B9BB9}|FinalApiTask.DAL\\FinalApiTask.DAL.csproj|solutionrelative:finalapitask.dal\\repositories\\implementations\\productsizerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -42,116 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IRelationalRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.DAL\\Repositories\\Abstractions\\IRelationalRepository.cs",
-              "RelativeDocumentMoniker": "FinalApiTask.DAL\\Repositories\\Abstractions\\IRelationalRepository.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.DAL\\Repositories\\Abstractions\\IRelationalRepository.cs",
-              "RelativeToolTip": "FinalApiTask.DAL\\Repositories\\Abstractions\\IRelationalRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T08:18:18.473Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductSizeRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.DAL\\Repositories\\Implementations\\ProductSizeRepo.cs",
-              "RelativeDocumentMoniker": "FinalApiTask.DAL\\Repositories\\Implementations\\ProductSizeRepo.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.DAL\\Repositories\\Implementations\\ProductSizeRepo.cs",
-              "RelativeToolTip": "FinalApiTask.DAL\\Repositories\\Implementations\\ProductSizeRepo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T08:28:17.521Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductColorRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.DAL\\Repositories\\Implementations\\ProductColorRepo.cs",
-              "RelativeDocumentMoniker": "FinalApiTask.DAL\\Repositories\\Implementations\\ProductColorRepo.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.DAL\\Repositories\\Implementations\\ProductColorRepo.cs",
-              "RelativeToolTip": "FinalApiTask.DAL\\Repositories\\Implementations\\ProductColorRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T08:38:02.933Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RelationalRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.DAL\\Repositories\\Implementations\\RelationalRepository.cs",
-              "RelativeDocumentMoniker": "FinalApiTask.DAL\\Repositories\\Implementations\\RelationalRepository.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.DAL\\Repositories\\Implementations\\RelationalRepository.cs",
-              "RelativeToolTip": "FinalApiTask.DAL\\Repositories\\Implementations\\RelationalRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T08:30:48.917Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.BL\\Services\\Implementations\\ProductService.cs",
-              "RelativeDocumentMoniker": "FinalApiTask.BL\\Services\\Implementations\\ProductService.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.BL\\Services\\Implementations\\ProductService.cs",
-              "RelativeToolTip": "FinalApiTask.BL\\Services\\Implementations\\ProductService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T09:32:43.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductSizeService.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.BL\\Services\\Implementations\\ProductSizeService.cs",
-              "RelativeDocumentMoniker": "FinalApiTask.BL\\Services\\Implementations\\ProductSizeService.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.BL\\Services\\Implementations\\ProductSizeService.cs",
-              "RelativeToolTip": "FinalApiTask.BL\\Services\\Implementations\\ProductSizeService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCYAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T09:27:57.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductColorService.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.BL\\Services\\Implementations\\ProductColorService.cs",
-              "RelativeDocumentMoniker": "FinalApiTask.BL\\Services\\Implementations\\ProductColorService.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.BL\\Services\\Implementations\\ProductColorService.cs",
-              "RelativeToolTip": "FinalApiTask.BL\\Services\\Implementations\\ProductColorService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T09:27:55.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IProductSizeService.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.BL\\Services\\Abstractions\\IProductSizeService.cs",
-              "RelativeDocumentMoniker": "FinalApiTask.BL\\Services\\Abstractions\\IProductSizeService.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\API-HomeTask\\FinalApiTask\\FinalApiTask.BL\\Services\\Abstractions\\IProductSizeService.cs",
-              "RelativeToolTip": "FinalApiTask.BL\\Services\\Abstractions\\IProductSizeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T09:27:02.695Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"

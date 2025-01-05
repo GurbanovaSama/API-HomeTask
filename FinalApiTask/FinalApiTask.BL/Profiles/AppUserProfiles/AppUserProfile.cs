@@ -8,8 +8,7 @@ namespace FinalApiTask.BL.Profiles.AppUserProfiles
     {
         public AppUserProfile()
         {
-            CreateMap<AppUserCreateDto, AppUser>().ReverseMap();    
-            CreateMap<AppUserEditDto, AppUser>().ReverseMap();  
+            CreateMap<AppUserCreateDto, AppUser>();
         }
     }
 }
