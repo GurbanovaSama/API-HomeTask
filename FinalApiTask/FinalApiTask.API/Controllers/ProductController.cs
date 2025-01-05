@@ -3,6 +3,7 @@ using FinalApiTask.BL.DTOs.ProductDtos;
 using FinalApiTask.BL.Services.Abstractions;
 using FinalApiTask.BL.Services.Implementations;
 using FinalApiTask.Core.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -27,7 +28,7 @@ namespace FinalApiTask.API.Controllers
             return await _productService.GetAllAsync();
         }
 
-
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         public async Task<IActionResult> Create(ProductCreateDto createDto)
         {

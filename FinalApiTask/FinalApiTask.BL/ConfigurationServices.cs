@@ -1,4 +1,6 @@
-﻿using FinalApiTask.BL.Services.Abstractions;
+﻿using FinalApiTask.BL.ExternalServices.Implentations;
+using FinalApiTask.BL.ExternalServices.Interfaces;
+using FinalApiTask.BL.Services.Abstractions;
 using FinalApiTask.BL.Services.Implementations;
 using Microsoft.Extensions.DependencyInjection;
 using System.Reflection;
@@ -15,7 +17,10 @@ namespace FinalApiTask.BL
             services.AddScoped<IColorService, ColorService>();
             services.AddScoped<IProductService, ProductService>();
             services.AddScoped<ISizeService, SizeService>();
-            
+            services.AddScoped<IAuthService, AuthService>();
+            services.AddScoped<IJwtTokenService, JwtTokenService>();
+
+
         }
     }
 }
