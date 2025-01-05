@@ -1,4 +1,5 @@
-﻿using FluentValidation;
+﻿using FinalApiTask.Core.Entities;
+using FluentValidation;
 
 namespace FinalApiTask.BL.DTOs.ProductDtos
 {
@@ -8,6 +9,8 @@ namespace FinalApiTask.BL.DTOs.ProductDtos
         public decimal Price { get; set; }
         public string ImagePath { get; set; }
         public int CategoryId { get; set; }
+        public ICollection<ProductColor>? ProductColors { get; set; }
+        public ICollection<ProductSize>? ProductSizes { get; set; }
     }
 
     public class ProductCreateDtoValidation : AbstractValidator<ProductCreateDto>

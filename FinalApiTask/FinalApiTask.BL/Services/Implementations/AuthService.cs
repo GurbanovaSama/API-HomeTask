@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FinalApiTask.DAL.Configurations
+namespace FinalApiTask.BL.Services.Implementations
 {
-    internal class ColorConfiguration
+    internal class AuthService
     {
     }
 }

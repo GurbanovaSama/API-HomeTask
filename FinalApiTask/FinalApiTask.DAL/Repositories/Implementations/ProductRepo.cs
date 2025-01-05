@@ -8,6 +8,6 @@ namespace FinalApiTask.DAL.Repositories.Implementations
     {
         public ProductRepo(AppDbContext context) : base(context)
         {
-        }
+        } 
     }
 }

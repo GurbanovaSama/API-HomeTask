@@ -2,7 +2,7 @@
 
 namespace FinalApiTask.DAL.Repositories.Abstractions
 {
-    public interface IAppUserRepo : IGenericRepository<AppUser>
+    public interface IProductColorRepo : IRelationalRepository<ProductColor>
     {
     }
 }

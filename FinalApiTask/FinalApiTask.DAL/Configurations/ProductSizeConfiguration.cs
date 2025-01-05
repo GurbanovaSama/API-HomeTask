@@ -8,15 +8,15 @@ namespace FinalApiTask.DAL.Configurations
     {
         public void Configure(EntityTypeBuilder<ProductSize> builder)
         {
-            builder.HasOne(p => p.Product)
-               .WithMany(p => p.ProductSizes)
-               .HasForeignKey(p => p.ProductId)
-               .OnDelete(DeleteBehavior.Restrict);
+            builder.HasKey(ps => new { ps.ProductId, ps.SizeId });
 
-            builder.HasOne(p => p.Size)
-                .WithMany(p => p.ProductSizes)
-                .HasForeignKey(p => p.SizeId)
-                .OnDelete(DeleteBehavior.Restrict);
+            builder.HasOne(ps => ps.Product)
+               .WithMany(p => p.ProductSizes)
+               .HasForeignKey(ps => ps.ProductId);
+
+            builder.HasOne(ps => ps.Size)
+              .WithMany(s => s.ProductSizes)
+              .HasForeignKey(ps => ps.SizeId);
         }
     }
 }
