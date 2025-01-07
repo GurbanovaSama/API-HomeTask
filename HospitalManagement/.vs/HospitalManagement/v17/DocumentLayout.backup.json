@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\classtime\\source\\repos\\HospitalManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A32AD682-86B3-4EA1-9064-221DCD6B6335}|HospitalManagement.API\\HospitalManagement.API.csproj|c:\\users\\classtime\\source\\repos\\hospitalmanagement\\hospitalmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32AD682-86B3-4EA1-9064-221DCD6B6335}|HospitalManagement.API\\HospitalManagement.API.csproj|solutionrelative:hospitalmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066AC986-CB3B-4B97-A1D1-52A5CFC99D12}|HospitalManagement.BL\\HospitalManagement.BL.csproj|c:\\users\\classtime\\source\\repos\\hospitalmanagement\\hospitalmanagement.bl\\dtos\\insurancedtos\\insurancecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066AC986-CB3B-4B97-A1D1-52A5CFC99D12}|HospitalManagement.BL\\HospitalManagement.BL.csproj|solutionrelative:hospitalmanagement.bl\\dtos\\insurancedtos\\insurancecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066AC986-CB3B-4B97-A1D1-52A5CFC99D12}|HospitalManagement.BL\\HospitalManagement.BL.csproj|c:\\users\\classtime\\source\\repos\\hospitalmanagement\\hospitalmanagement.bl\\dtos\\patientdtos\\patientcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066AC986-CB3B-4B97-A1D1-52A5CFC99D12}|HospitalManagement.BL\\HospitalManagement.BL.csproj|solutionrelative:hospitalmanagement.bl\\dtos\\patientdtos\\patientcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32AD682-86B3-4EA1-9064-221DCD6B6335}|HospitalManagement.API\\HospitalManagement.API.csproj|c:\\users\\classtime\\source\\repos\\hospitalmanagement\\hospitalmanagement.api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32AD682-86B3-4EA1-9064-221DCD6B6335}|HospitalManagement.API\\HospitalManagement.API.csproj|solutionrelative:hospitalmanagement.api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32AD682-86B3-4EA1-9064-221DCD6B6335}|HospitalManagement.API\\HospitalManagement.API.csproj|c:\\users\\classtime\\source\\repos\\hospitalmanagement\\hospitalmanagement.api\\controllers\\insurancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32AD682-86B3-4EA1-9064-221DCD6B6335}|HospitalManagement.API\\HospitalManagement.API.csproj|solutionrelative:hospitalmanagement.api\\controllers\\insurancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\HospitalManagement\\HospitalManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\HospitalManagement\\HospitalManagement.API\\Program.cs*",
+              "RelativeToolTip": "HospitalManagement.API\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:46:33.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\HospitalManagement\\HospitalManagement.BL\\DTOs\\PatientDtos\\PatientCreateDto.cs",
+              "RelativeDocumentMoniker": "HospitalManagement.BL\\DTOs\\PatientDtos\\PatientCreateDto.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\HospitalManagement\\HospitalManagement.BL\\DTOs\\PatientDtos\\PatientCreateDto.cs",
+              "RelativeToolTip": "HospitalManagement.BL\\DTOs\\PatientDtos\\PatientCreateDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:36:53.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsuranceCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\HospitalManagement\\HospitalManagement.BL\\DTOs\\InsuranceDtos\\InsuranceCreateDto.cs",
+              "RelativeDocumentMoniker": "HospitalManagement.BL\\DTOs\\InsuranceDtos\\InsuranceCreateDto.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\HospitalManagement\\HospitalManagement.BL\\DTOs\\InsuranceDtos\\InsuranceCreateDto.cs",
+              "RelativeToolTip": "HospitalManagement.BL\\DTOs\\InsuranceDtos\\InsuranceCreateDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:36:19.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\HospitalManagement\\HospitalManagement.API\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement.API\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\HospitalManagement\\HospitalManagement.API\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "HospitalManagement.API\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:32:27.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InsuranceController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\HospitalManagement\\HospitalManagement.API\\Controllers\\InsuranceController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement.API\\Controllers\\InsuranceController.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\HospitalManagement\\HospitalManagement.API\\Controllers\\InsuranceController.cs",
+              "RelativeToolTip": "HospitalManagement.API\\Controllers\\InsuranceController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwEsAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:32:25.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

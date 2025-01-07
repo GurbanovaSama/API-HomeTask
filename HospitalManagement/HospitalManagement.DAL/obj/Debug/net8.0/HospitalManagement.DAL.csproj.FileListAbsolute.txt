@@ -1,0 +1,17 @@
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.DAL\bin\Debug\net8.0\HospitalManagement.DAL.deps.json
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.DAL\bin\Debug\net8.0\HospitalManagement.DAL.runtimeconfig.json
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.DAL\bin\Debug\net8.0\HospitalManagement.DAL.dll
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.DAL\bin\Debug\net8.0\HospitalManagement.DAL.pdb
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.DAL\bin\Debug\net8.0\HospitalManagement.Core.dll
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.DAL\bin\Debug\net8.0\HospitalManagement.Core.pdb
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.DAL\obj\Debug\net8.0\HospitalManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.DAL\obj\Debug\net8.0\HospitalManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.DAL\obj\Debug\net8.0\HospitalManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.DAL\obj\Debug\net8.0\HospitalManagement.DAL.AssemblyInfo.cs
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.DAL\obj\Debug\net8.0\HospitalManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.DAL\obj\Debug\net8.0\Hospital.CFB353C2.Up2Date
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.DAL\obj\Debug\net8.0\HospitalManagement.DAL.dll
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.DAL\obj\Debug\net8.0\refint\HospitalManagement.DAL.dll
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.DAL\obj\Debug\net8.0\HospitalManagement.DAL.pdb
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.DAL\obj\Debug\net8.0\HospitalManagement.DAL.genruntimeconfig.cache
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.DAL\obj\Debug\net8.0\ref\HospitalManagement.DAL.dll

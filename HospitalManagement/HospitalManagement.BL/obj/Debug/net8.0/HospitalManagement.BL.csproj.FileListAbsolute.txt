@@ -1,0 +1,17 @@
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.BL\bin\Debug\net8.0\HospitalManagement.BL.deps.json
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.BL\bin\Debug\net8.0\HospitalManagement.BL.dll
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.BL\bin\Debug\net8.0\HospitalManagement.BL.pdb
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.BL\bin\Debug\net8.0\HospitalManagement.Core.dll
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.BL\bin\Debug\net8.0\HospitalManagement.DAL.dll
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.BL\bin\Debug\net8.0\HospitalManagement.DAL.pdb
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.BL\bin\Debug\net8.0\HospitalManagement.Core.pdb
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.BL\obj\Debug\net8.0\HospitalManagement.BL.csproj.AssemblyReference.cache
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.BL\obj\Debug\net8.0\HospitalManagement.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.BL\obj\Debug\net8.0\HospitalManagement.BL.AssemblyInfoInputs.cache
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.BL\obj\Debug\net8.0\HospitalManagement.BL.AssemblyInfo.cs
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.BL\obj\Debug\net8.0\HospitalManagement.BL.csproj.CoreCompileInputs.cache
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.BL\obj\Debug\net8.0\Hospital.8B815B5D.Up2Date
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.BL\obj\Debug\net8.0\HospitalManagement.BL.dll
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.BL\obj\Debug\net8.0\refint\HospitalManagement.BL.dll
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.BL\obj\Debug\net8.0\HospitalManagement.BL.pdb
+C:\Users\classtime\source\repos\HospitalManagement\HospitalManagement.BL\obj\Debug\net8.0\ref\HospitalManagement.BL.dll
